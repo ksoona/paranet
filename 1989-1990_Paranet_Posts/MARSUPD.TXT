@@ -1,0 +1,57 @@
+Newsgroups: alt.paranet.ufo,alt.alien.visitors
+Subject: Mars Mission update.
+Date: Thu, 5 Aug 1993 16:58:02 GMT
+
+
+For  those  of  you  that  are following the Mars Mission, here is a portion of
+NASA's daily news in this regards:
+
+
+[space.mit.edu]
+
+nasanews: [space] Thu Aug  5 11:20:24 1993
+Daily News Wednesday, August 4, 1993 Two Independence Square;
+
+Washington, D.C.  Audio Service:202/358-3014
+% Mars Observer update
+        ...
+
+On  July  26,  the  Mars  Observer spacecraft took the first photograph of Mars
+since  the  Viking  missions  of  the mid-70s as it approached the planet.  The
+spacecraft  used  its  high  resolution  narrow-angle camera to take the photo-
+graph.  The photograph is currently being processed and will be available later
+this week.
+
+The Mars Observer switched to an automatic contingency mode, a self- protective
+default  mode  on  August  1.   This occurred when the spacecraft per- formed a
+larger  than expected attitude correction while it was reorienting its position
+relative  to  the  stars  and  the  sun.   Full  recovery to normal cruise mode
+occurred on August 2.
+
+At  present,  the  flight  team  reports  that  all  spacecraft  subsystems and
+instrument  payload  are  performing  well.   Mars Observer will be captured in
+orbit  around  Mars  on  August  24  and  begin  its  global mapping mission in
+mid-December.
+        ...
+
+
+You may obtain this daily news by doing a:
+
+	finger nasanews@space.mit.edu
+
+                         ANOTHER FILE LEECHED FROM:
+
+                 /\____/\__ /\./\_____/\__  /\__  /\___/\  _
+               _/    _/ ._//  |__  __/ (  |/  _ \/    \  \/ \
+               \  ø /  .  \_  :./  \.| /  |   .  \ ø__/___  /
+              -=\___\______/__||____||____|\__|__/_|__\ )  /=-
+              -=====Y=================================Y=\ /==-
+                    :       tRiStAR - REDSECtoR       :  Y[M1]
+                    . .____/\_________/\__________.   |  .
+                    ; l___/  |_____  /  __________|   .  |
+                         /   |  __ _/.___   \_/   |   ;  :
+                       _/RtX |  \    |   |   /    |      .
+                       \  ___|___\   |____  /\  __|
+                        \/   :    \__|    \/  \/
+                      U.S. H.E.A.D.Q.U.A.R.T.E.R.S.!
+

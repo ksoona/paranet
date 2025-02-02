@@ -1,0 +1,275 @@
+
+This file contains the current file listing for CUFON as of 16-DEC-1992
+
+=======================================================================
+FILENAME        BYTE      FILE DESCRIPTION
+                SIZE
+=======================================================================
+
+                         ---------------------------
+                                  C U F O N
+                         --------------------------- 
+                  - Verified Documents  Directory Listing -         121692
+
+ALLFILES.TXT   12204  Directory file listing all CUFON files
+                      (Posted 16-MAY-1992)
+ALLFILES.ZIP    4023  (PKZIP V 1.1 Format)
+
+EO12356.TXT    38125  Executive Order 12356 - National security
+                      information  classification levels etc.
+                      (Posted 22-FEB-1992)
+EO12356.ZIP    11254  Compressed (PKZIP V 1.1 Format)
+VDOC_001.TXT    6380  JANAP 146 (C)
+VDOC_002.TXT   10231  JANAP 146 (E)
+VDOC_002.ZIP    3773  Compressed (PKZIP V 1.1 Format)
+AFL200-2.TXT    8662  Air Force Letter AFL 200-2
+                      UFO reporting requirements preceeding AFR 200-2
+                      (Posted 27-MAR-1992)
+AFL200-2.ZIP    3527  Compressed (PKZIP V 1.1 Format)
+VDOC_003.TXT   10699  Air Force Regulation AFR 200-2
+VDOC_003.ZIP    4153  Compressed (PKZIP V 1.1 Format)
+AFR80-17.TXT   31451  Air Force Regulation AFR 80-17
+                      Replaced AFR 200-2 in September, 1966. 
+                      (Posted 17-AUGUST-1991) 
+AFR80-17.ZIP   10554  Compressed (PKZIP V 1.1 Format)
+
+            ****    Freedom of Information Act Documents    ****
+
+FOIA.DIR        5691  Freedom of Information Act Documents
+                      Directory file
+
+FOIA_001.TXT   12253  FOIA documents 1 - 5
+FOIA_001.ZIP    4964  Compressed (PKZIP V 1.1 Format)
+FOIA_002.TXT   13135  FOIA documents 6 - 10
+FOIA_002.ZIP    5272  Compressed (PKZIP V 1.1 Format)
+FOIA_003.TXT   18417  FOIA documents 11 - 15
+FOIA_003.ZIP    6650  Compressed (PKZIP V 1.1 Format)
+FOIA_004.TXT   13726  FOIA documents 16 - 20
+FOIA_004.ZIP    5197  Compressed (PKZIP V 1.1 Format)
+FOIA_005.TXT   12198  FOIA documents 21 - 25
+FOIA_005.ZIP    4427  Compressed (PKZIP V 1.1 Format)
+FOIA_006.TXT   14026  FOIA documents 26 - 30
+FOIA_006.ZIP    5233  Compressed (PKZIP V 1.1 Format)
+FOIA_007.TXT   15986  FOIA documents 31 - 35
+FOIA_007.ZIP    6345  Compressed (PKZIP V 1.1 Format)
+FOIA_008.TXT   11941  FOIA documents 36 - 40
+FOIA_008.ZIP    4745  Compressed (PKZIP V 1.1 Format)
+FOIA_009.TXT   14764  FOIA documents 41 - 45
+FOIA_009.ZIP    5232  Compressed (PKZIP V 1.1 Format)
+FOIA_010.TXT   15132  FOIA documents 46 - 50
+FOIA_010.ZIP    5150  Compressed (PKZIP V 1.1 Format)
+FOIA_011.TXT   17085  FOIA documents 51 - 55
+FOIA_011.ZIP    5717  Compressed (PKZIP V 1.1 Format)
+FOIA_012.TXT   11489  FOIA documents 56 - 59
+FOIA_012.ZIP    4000  Compressed (PKZIP V 1.1 Format)
+
+                         ---------------------------
+                                  C U F O N
+                         --------------------------- 
+                 - Sighting Report Files Directory Listing -       022192
+
+                                                          
+                 ****    Backlogged Sighting reports   ****
+     
+SRBL.DIR       18140  Backlogged sighting reports directory
+                      List file for SRBL001.TXT - SRBL011.TXT    
+SRBL.ZIP        4132  Compressed (PKZIP V 1.1 Format)
+
+SRBL001.TXT    17453  Reports 1 - 25
+SRBL001.ZIP     4383  Compressed (PKZIP V 1.1 Format)
+SRBL002.TXT    18293  Reports 26 - 43
+SRBL002.ZIP     5957  Compressed (PKZIP V 1.1 Format)
+SRBL003.TXT     7684  Reports 44 - 50
+SRBL004.TXT    28571  Reports 51 - 75
+SRBL004.ZIP     9473  Compressed (PKZIP V 1.1 Format)
+SRBL005.TXT    28841  Reports 76 - 100
+SRBL005.ZIP     9371  Compressed (PKZIP V 1.1 Format)
+SRBL006.TXT    12526  Reports 101 - 111
+SRBL006.ZIP     4532  Compressed (PKZIP V 1.1 Format)
+SRBL007.TXT    12829  Reports 112 - 125
+SRBL007.ZIP     4302  Compressed (PKZIP V 1.1 Format)
+SRBL008.TXT    26613  Reports 126 - 150
+SRBL008.ZIP     8837  Compressed (PKZIP V 1.1 Format)
+SRBL009.TXT    26654  Reports 151 - 175
+SRBL009.ZIP     8840  Compressed (PKZIP V 1.1 Format)
+SRBL010.TXT    37333  Reports 176 - 200
+SRBL010.ZIP    13657  Compressed (PKZIP V 1.1 Format)
+SRBL011.TXT    40056  Reports 201 - 225
+SRBL011.ZIP    14967  Compressed (PKZIP V 1.1 Format)
+                                       
+          ****    Backlogged International Sighting reports   ****
+                                                          
+ISRBL001.DIR    2620  Backlogged international sighting
+                      reports directory file for 
+                      ISRBL001.TXT - ISRBL004.TXT
+
+ISRBL001.TXT   10434  Reports 1 - 5
+ISRBL001.ZIP    4549  Compressed (PKZIP V 1.1 Format) 
+ISRBL002.TXT    9510  Reports 6 - 10
+ISRBL003.TXT    8061  Reports 11 - 15
+ISRBL004.TXT   12807  Reports 15 - 21
+ISRBL004.ZIP    5491  Compressed (PKZIP V 1.1 Format)
+
+                         ---------------------------
+                                  C U F O N
+                         --------------------------- 
+                  - Miscellaneous Files Directory Listing -         022692
+
+CONFIRM.TXT    41510  Paper linking UFO and NSA, CIA, IAC and
+                      thru the NSC to the President.  (Posted 24-FEB-92)
+
+CONFIRM.ZIP    15809  Compressed (PKZIP V 1.1 format)
+
+POL_LTR.TXT    12638  Complete text of the "Air Force Information
+                      Policy Letter" cited by Kehoe in _Aliens from 
+                      Space_, 1973, Doubleday & Company, Inc., NY.
+ 
+POL_LTR.ZIP     5517  Compressed (PKZIP V 1.1 format)
+
+MCDON3.TXT    236926  STATEMENT ON UNIDENTIFIED FLYING OBJECTS 
+                      Statement submitted to House Committee on Science 
+                      and Astronautics at July 29, 1968, Symposium on 
+                      Unidentified Flying Objects, Rayburn Bldg., 
+                      Washington, D.C., by James E. McDonald,  Senior 
+                      Physicist, Institute of Atmospheric Physics, and 
+                      Professor, Department of Meteorology, The University 
+                      of Arizona, Tucson, Arizona. 
+
+MCDON3.ZIP    109391  Compressed (PKZIP V 1.1 format)
+
+MCDON2.TXT    177349  "SCIENCE IN DEFAULT: 22 YEARS OF INADEQUATE 
+                      UFO INVESTIGATIONS" paper by James E. McDonald, 
+                      Institute of Atmospheric Physics, U. of Arizona, 
+                      Tucson, presented at the Symposium on UFOs,
+                      134th Meeting, AAAS, Boston, Dec, 27, 1969)
+                      (Posted 19-JAN-1993) 
+ 
+MCDON2.ZIP     69954  Compressed (PKZIP V 1.1 format)
+ 
+AFRSTDY1.TXT  167575  Research Study titled "Should TheAir Force Reopen 
+                      Project Blue Book?" submitted to the Air and Staff 
+                      College of the Air (Force) University in May 1974.
+                      (Posted 29-DEC-1992)
+ 
+AFRSTDY1.ZIP   62433  Compressed (PKZIP V 1.1 format)
+
+AFTHES2.TXT   198298  Thesis titled "The UFO Problem: Time for
+                      a Reassessment" submitted to the Air and Staff 
+                      College of the Air (Force) University in June 1968
+ 
+AFTHES2.ZIP    72803  PKZIP Compressed (PKZIP V 1.1 format)
+
+AFTHES1.TXT    77939  Thesis titled "UFO's and Extraterrestrial
+                      Life" submitted to the Air and Staff College of the
+                       Air (Force) University in June 1968
+
+AFTHES1.ZIP    29361  Compressed (PKZIP V 1.1 format)
+
+ROBERT.TXT     11850  The Robertson Panel Consultant's Report
+                      from January 1953.  text as released by CIA Oct. 1991
+                      (Posted 26-APR-92)
+
+IFO_LIST.TXT    5466  List of things which are often
+                      Misidentified as UFOs (Posted 09-OCT-1991)
+
+READLIST.TXT   30367  CUFON Recommended Reading List
+                      (Updated 23 DEC 1992)
+
+READLIST.ZIP    8587  Compressed (PKZIP V 1.1 format)
+
+BENTWATR.TXT   24085  1980 Bentwaters/Rendlesham Forest
+                      Incident audio tape transcription & FOIA release
+                      (Posted 30-JUL-1991)
+
+PRESCONF.TXT   63568  Press conference, National Press Club,
+                      July 25, 1987, Project Aquarius
+                      (Posted 28-JUL-1991)
+
+PRESCONF.ZIP   25357  Compressed (PKZIP V 1.1 format)
+
+SWAMPGAS.TXT   12237  Lab results of 1966 "Swamp Gas Case"
+SWAMPGAS.ZIP    4511  Compressed (PKZIP V 1.1 format)
+
+HYNEKINT.TXT   12045  Dr. J.A. Hynek's last interview
+                      (Posted 28-JUL-1991)
+
+HYNEKINT.ZIP    5456  Compressed (PKZIP V 1.1 format)
+
+MCDONALD.TXT    4309  Dr. J.E. McDonald's statement to the
+                      House Committee on Science and Astronautics, 
+                      Symposium on UFO, 1968 (introduction only)
+                      (Posted 28-JUL-1991)
+
+PHY_370.TXT    69482  Introduction to Space Science, USAF
+                      Dept. of Physics UFO text (Newly expanded
+                      file) (Posted 16 MAY 1992)
+
+PHY_370.ZIP    28198  Compressed (PKZIP V 1.1 format)
+
+OFIL_001.TXT   36469  Review and outlook on science
+OFIL_001.ZIP   16449  Compressed (PKZIP V 1.1 format)
+OFIL_002.TXT    5511  The history of UFO's during World War II
+OFIL_003.TXT    5504  Statistical chart by state for...
+                      June and July 1947
+OFIL_004.TXT   11469  Acute exposure & radiat'n sicknes level
+OFIL_004.ZIP    4075  Compressed (PKZIP V 1.1 format)
+OFIL_006.TXT    4045  UFO Close Encounters - CUFON
+                      Explanation of classifications
+
+        ****    Backlogged Associated Press (AP) Articles    ****
+
+APABL.DIR       2773  Backlogged AP articles directory file
+
+APABL001.TXT    8953  Articles 1, 3 & 4
+APABL002.TXT    7731  Articles 5 - 7
+APABL003.TXT    5924  Articles 8 - 11
+APABL004.TXT    5787  Articles 12 - 14
+APABL005.TXT    6174  Articles 15 - 19
+APABL006.TXT   12265  Articles 20 - 23
+APABL006.ZIP    5430  Compressed (PKZIP V 1.1 format)
+
+                  ****    Support Programs   ****
+;
+PK204G.EXE    202574  Program Self Extracting Archive 
+                      PKWARE upgrade PKZIP 2.04e to 2.04g. Run this on
+                      your IBM PC compatible to get the PKZIP Utilities
+                      Version 2.04g.
+
+ZIPIT1.CPT    120832  ZipIt 1.0 ZipIt 1.0 is a Macintosh 
+                      application; zips and unzips files, has a Macintosh
+                      interface, can zip Mac files, can unzip PKZip 1.X
+                      and 2.x files, can only zip in 1.X compatible form. 
+                      Dearchive with EXTRAC.BIN Shareware $10.00
+
+EXTRAC.BIN     34816  Extractor 1.21 is a FREE utility 
+                      for extracting files files from Compact Pro (.CPT) 
+                      archives.
+
+                         ---------------------------
+                                  C U F O N
+                         --------------------------- 
+                      - Editorials Directory Listing -         070792
+
+
+NASATAPE.TXT    5514  CUFON Editorial No. 1 (07-JUL-1992)
+
+                         ---------------------------
+                                  C U F O N
+                         --------------------------- 
+                      - Review Files Directory Listing -         072692
+
+CUFON, Dale Goudie or Jim Klotz are not responsible for the contents of 
+reviews posted here, nor do opinions expressed necessarily represent their 
+views or opinions.  
+
+ARMEN.TXT      44806  Armen Victorian's review of Tim Good's
+                      Book Alien Liaison (Posted 19-Feb-92)
+
+ARMEN.ZIP      17724  Compressed (PKZIP V 1.1 format)
+
+SECRETLF.TXT   11687  Dr. Willie Smith's review of Dr. David
+                      Jacobs' recent book "Secret Life."  Copyright 
+                      (C) UNICAT July 1, 1992 (Posted 26-Jul-92 by permission)
+
+SECRETLF.ZIP    5334  Compressed (PKZIP V 1.1 format)
+

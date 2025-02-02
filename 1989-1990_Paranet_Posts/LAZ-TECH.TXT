@@ -1,0 +1,957 @@
+
+                         ANOTHER FILE LEECHED FROM:
+
+                 /\____/\__ /\./\_____/\__  /\__  /\___/\  _
+               _/    _/ ._//  |__  __/ (  |/  _ \/    \  \/ \
+               \  ø /  .  \_  :./  \.| /  |   .  \ ø__/___  /
+              -=\___\______/__||____||____|\__|__/_|__\ )  /=-
+              -=====Y=================================Y=\ /==-
+                    :       tRiStAR - REDSECtoR       :  Y[M1]
+                    . .____/\_________/\__________.   |  .
+                    ; l___/  |_____  /  __________|   .  |
+                         /   |  __ _/.___   \_/   |   ;  :
+                       _/RtX |  \    |   |   /    |      .
+                       \  ___|___\   |____  /\  __|
+                        \/   :    \__|    \/  \/
+                    W.O.R.L.D. H.E.A.D.Q.U.A.R.T.E.R.S.
+
+From: tmahood@netcom.com (Tom Mahood)
+Message-Id: <199403042013.MAA21821@mail.netcom.com>
+Subject: Lazar Technical Stuff
+Date: Fri, 4 Mar 1994 12:13:58 -0800 (PST)
+
+Over time, I've become very interested in the Lazar story, particularly
+from a technical viewpoint.  Unfortunately, few of the interviews or 
+statements he's given went very far into technical areas.  What I have 
+done is assemble all info I could find regarding Lazar's statements 
+specifically on how the gravity drive operates, and to a lesser extent,
+how the crafts move through space (Please feel free to add "allegedly"
+and "supposedly" wherever you'd like!).  I was looking for the overall 
+picture, and also for contradictions in his story.  Judge for yourselves.
+
+NOTE:  Some of the interviews were simply question and answer sessions.
+In those cases, I took liberties of excerpting only pertinent questions
+and strung them together in the order asked and answered.  In the case 
+of the book and tape excerpts, there existed a certain flow, so I 
+identified discontinuities by the notation [BREAK].
+
+
+                                    Tom Mahood   tmahood@netcom.com
+                                                 February 28, 1994
+
+========================================================================
+
+                       THE WORD OF BOB
+
+========================================================================
+
+On the Record, KLAS-TV, Las Vegas, Nevada, 12/9/89
+
+
+George Knapp, producer/host
+Robert Lazar, guest
+
+Lazar:
+The  first  thing was HANDS-on experience  with  the  anti-matter reactor.
+
+Knapp:
+Explain what that is and how it works and what it does.
+
+Lazar:
+It's a plate about 18 inches in diameter with a sphere on top.
+
+Knapp:
+We  have a tape of a model that a friend of yours made.  You  can narrate 
+along.  There it is.
+
+Lazar:
+Inside  that  tower  is a chip of Element 115 they  just  put  in there.  
+That's a super-heavy element.  The lid goes on top.  And  as  far as any 
+other of the workings of it, I  really  don't know, you know, [such as] 
+what's inside the bottom of it . . .115  sets up a gravitational field around 
+the top.   That  little wave guide you saw being put on the top:  it 
+essentially  siphons off  the  gravity wave, and that's later amplified in  the  
+lower portion of the craft.
+
+But just in general, the whole technology is virtually unknown.
+
+Knapp:
+Now we saw the model.  We saw the pictures of it there.  It looks really, 
+really simple, almost too simple to actually do anything.
+
+Lazar:
+Right.
+
+Knapp:
+Working parts?
+
+Lazar:
+None  detectable.   Essentially, what the job was  was  to  back-engineer 
+everything, where you have a finished product and to step backwards  and 
+find out how it was made or how it could  be  made with earthly materials.  
+There hasn't been very much progress.
+
+Knapp:
+How long do you think they've had this technology up there?
+
+Lazar:
+It seems like quite a while, but I really don't know.
+
+Knapp:
+What  could you do with an anti-matter generator?  What  does  it do?
+
+Lazar:
+It converts anti-matter . . .It   DOESN'T  convert  anti-matter!   There's   
+an   annihilation reaction.  It's an extremely powerful reaction, a hundred 
+percent conversion  of  matter  to energy, unlike  a  fission  or  fusion 
+reaction  which is somewhere around eight-tenths of  one  percent 
+conversion  of matter to energy.
+
+Knapp:
+How does it work?  What starts the reaction going?
+
+Lazar:
+Really, once the 115 is put in, the reaction is initiated.
+
+Knapp:
+Automatic.
+
+Lazar:
+Right.
+
+Knapp:
+I  don't  understand.   I  mean, there's no  button  to  push  or anything?
+
+Lazar:
+No, there's no button to push or anything.
+
+Apparently,  the 115 under bombardment with protons lets  out  an anti-
+matter particle.  This anti-matter particle will react  with any  matter  
+whatsoever,  which I imagine there  is  some  target system  inside  the 
+reactor.  This, in turn, releases  heat,  and somewhere  within  that system 
+there  is  a  one-hundred-percent-efficient thermionic generator, essentially 
+a  heat-to-electrical generator.
+
+Knapp:
+How  is this anti-matter reactor connected to gravity  generation that you 
+were talking about earlier?
+
+Lazar:
+Well, that reactor serves two purposes; it provides a  tremendous amount  
+of electrical power, which is almost a  by-product.   The gravitational 
+wave gets formed at the sphere, and that's  through some action of the 
+115, and the exact action I don't think anyone really knows.
+
+The  wave  guide  siphons  off  that  gravity  wave,  and  that's channeled 
+above the top of the disk to the lower part where there are  three  gravity  
+amplifiers, which amplify  and  direct  that gravity wave.
+
+Knapp:
+In essence creating their own gravitational field.
+
+Lazar:
+Their own gravitational field.
+
+Knapp:
+You're  fairly convinced that science on earth doesn't have  this technology  
+right  now?  We have it now at S-4, I guess,  but  we didn't create it?
+
+Lazar:
+Right.
+
+Knapp:
+Why not?  Why couldn't we?
+
+Lazar:
+The technology's not even -- We don't even know what gravity IS!
+
+Knapp:
+Well, what is it?  What have you learned about what gravity is?
+
+Lazar:
+Gravity  is  a  wave.  There are many  different  theories,  wave included.   
+It's been theorized that gravity is  also  particles, gravitons, which is also 
+incorrect.  But gravity is a wave.   The basic wave they can actually tap 
+off of an element:  why that  is I'm not exactly sure.
+
+Knapp:
+So you can produce your own gravity.  What does that mean?   What does 
+that allow you to do?
+
+Lazar:
+It  allows you to do virtually anything.  Gravity  distorts  time and  space.  
+By doing that, now you're into a different  mode  of travel,  where instead 
+of traveling in a linear method  --  going from Point A to B -- now you can 
+distort time and space to  where you essentially bring the mountain to 
+Mohammed; you almost  bring your destination to you without moving. 
+
+And since you're distorting time, all this takes place in between moments 
+of time.  It's such a far-fetched concept!
+
+Knapp:
+Of  course, what the UFO skeptics say is, yeah, there's life  out there  
+elsewhere  in the universe; it can never come  here;  it's just  too darn far.  
+With the kind of technology  you're  talking about, it makes such 
+considerations irrelevant about distance and
+time and things like that.
+
+Lazar:
+Exactly, because when you are distorting time, there's no  longer a  normal 
+reference of time.  And that's what producing your  own gravity does.
+
+Knapp:
+You  can go forward or backward in time?  Is that's  what  you're saying?
+
+Lazar:
+No,  not essentially.  It would be easier with a model.   On  the bottom  
+side of the disk are the three gravity generators.   When they  want  to 
+travel to a distant point, the disk turns  on  its side.  The three gravity 
+generators produce a gravitational beam.  What they do is they converge 
+the three gravity generators  onto a point and use that as a focal point; and 
+they bring them up  to power and PULL that point towards the disk.  The 
+disk itself will attach  ONTO  that point and snap back -- AS THEY  
+RELEASE  SPACE BACK TO THAT POINT!
+
+Now  all this happens in the distortion of time, so time  is  not 
+incrementing.  So the SPEED is essentially infinite. 
+
+Knapp:
+We'll get into the disks in a moment.  But the first time you saw the  anti-
+matter reactor in operation or a demonstration  --  you had a couple of 
+demonstrations -- tell me about that.
+
+Lazar:
+The  first time I saw it in operation, we just put -- a friend  I worked with, 
+Barry -- put the fuel in the reactor, put the lid on as, as was shown there.
+
+Immediately, a gravitational field developed, and he said,  "Feel it!"   And  
+it  felt like you bring two like poles  of  a  magnet together; you can do 
+that with your hand.  And it was FASCINATING to do that, impossible, 
+except on something with great mass!  And obviously this is just a . . .
+
+And it was a REPULSION field.  In fact, we kind of fooled  around with 
+it for a little while.  And we threw golf balls off it.  And it was just a 
+really unique thing.
+
+Knapp:
+And you had other demonstrations to show you that this is  pretty wild 
+stuff, right?
+
+Lazar:
+Yeah,  they  did.  They were able to channel the field off  in  a 
+demonstration  that they created an INTENSE  gravitational  area.   And 
+you began to see a small little black disk form, and that was the bending of 
+the light.
+
+Knapp:
+Just like a black hole floating around?
+
+Lazar:
+Yeah, well, a black hole is a bad analogy, but yeah, essentially. 
+
+
+
+
+
+
+======================================================================
+
+ Thursday, December 28th 1989:  KVEG Radio Interview
+
+
+Caller:
+With the gravity generators running, is there thermal radiation?
+
+Lazar:
+No, not at all.  I was never down on the bottom WHILE the gravity 
+generators were running, but the reactor itself -- there's no thermal 
+radiation whatsoever.  That was one of the really shocking things because 
+that violates the first law of thermodynamics.
+
+Lazar:
+In fact, I'm in the process of fabricating the gravity amplifier, but then I'm 
+at a tremendous shortage for power.  So yeah, I have even tried to do that 
+stuff on my own.
+
+Caller:
+Is there any electronics as we know it -- chips or transistors?
+
+Lazar:
+No, nothing like that.  Because of the tremendous power involved, too, 
+there was no direct connection between the gravity amplifiers and the 
+reactor itself.
+
+Caller:
+Are the wave guides similar to what we use with microwaves?
+
+Lazar:
+Very similar.
+
+Caller:
+In regard to the long-range method of travel, isn't a propulsion unit the 
+wrong idea?  I feel this device is creating a situation where it is 
+diminishing or removing the localized gravitational field, and long-distance 
+body that they're heading toward is actually PULLING the vehicle rather 
+than it being pushed.  Am I correct in this?
+
+Lazar:
+The vehicle is not being pushed.  But being pulled implies it's being pulled 
+by something externally:  It's pulling something else to IT.  IT's creating 
+the gravitational field.
+
+Caller:
+Is there any relation to the monopoles which [scientists] have been 
+looking for?
+
+Lazar:
+Well, they've been looking for the monopole magnet.  But then this [the 
+UFO force] is a gravitational force.
+
+Caller:
+What is the top speed of the craft?
+
+Lazar:
+It's tough to say a top speed because to say speed you have to compare 
+distance and time.  And when you're screwing around with time and 
+distorting it, you can no longer judge a velocity.  They're not traveling in a 
+linear mode where they just fly and cover a certain distance in a certain 
+time.  That's the real definition of speed.  They're bending and distorting 
+space and then essentially snapping it back with the craft, so the distances 
+they can travel are phenomenal -- in little or no time.  So speed has little 
+bearing.
+
+Caller:
+You've mentioned anti-gravity generator and anti-matter generator.  Are 
+they different?
+
+Lazar:
+It's not a gravity generator; it's a gravity amplifier.  I Get tongue-twisted 
+all too often.
+
+The anti-matter reactor provides the power for the craft and the basic low-
+amplitude gravitational wave, which is too low of an amplitude to do 
+anything.  It's piped into the gravity amplifiers, which are found at the 
+bottom of the craft.  There it's amplified into an extremely powerful wave, 
+and that's what the craft is flown on.  But there is an anti-matter reactor:  
+that's what provides the power.
+
+Caller:
+I understand there's an antenna section in this device;  what is the resonant 
+frequency that that operates at?
+
+Lazar:
+The resonant frequency of the gravity wave I do know, but I don't know it 
+off hand; I just can't remember it.
+
+Mark:
+Can you give me a ballpark, like 2,000 kilohertz?
+
+Lazar:
+I really don't remember.  It's a really odd frequency.
+
+Mark:
+Is it measured in kilohertz or gigahertz or megahertz?
+
+Lazar:
+I really don't remember.
+
+Burt:
+You were talking about the low- and high-speed modes and the control 
+factors in there.  Can you describe those modes and what the ship looks 
+like each time it is going through those modes?
+
+Lazar:
+The low-speed mode -- and I REALLY wish I could remember what they 
+call these, but I can't, as I can't remember the frequency of the wave --
+
+The low-speed mode:  The craft is very vulnerable; it bobs around.  And 
+it's sitting on a weak gravitational field, sitting on three gravity waves.  
+And it just bounces around.  And it can focus the waves behind it and 
+keep falling forward and hobble around at low speed. 
+
+The second mode:  They increase the amplitude of the field, and the craft 
+begins to lift, and it performs a ROLL maneuver:  it begins to turn, roll, 
+begins to turn over.  As it begins to leave the earth's gravitational field, 
+they point the bottom of the craft at the DESTINATION.  This is the 
+second mode of travel, where they converge the three gravity amplifiers -- 
+FOCUS them -- on a point that they want to go to.  Then they bring them 
+up to full power, and this is where the tremendous time-space distortion 
+takes place, and that whips them right to that point.
+
+Burt:
+Did you actually bench-test a unit away from the craft itself?
+
+Lazar:
+The reactor, yeah.
+
+Burt:
+About how large is this, and could you describe it?
+
+Lazar:
+The device itself is probably a plate about 18 inches square; I said 
+diameter before but it is square.  There's a half-sphere on top where the 
+gravity wave is tapped off of, but that's about the size of it.
+
+Jim from Las Vegas:
+On TV, you spoke of observing a demonstration of this anti-matter gravity 
+wave controller device.  And you made a mock-up copy?
+
+Lazar:
+A friend made one, yeah.
+
+Jim:
+I heard you speak of bouncing golf balls off of this anti-gravity field?
+
+Lazar:
+Yeah.
+
+Jim:
+And also about the candle, the wax, and the flame stood still?
+
+Lazar:
+Right.
+
+Jim:
+And then the hole that you saw appear --
+
+Lazar:
+It wasn't a hole; it was a little disk.
+
+Jim:
+Under what conditions did you see this demonstrated.   Elaborate on this.  
+And how large was the force field?
+
+Lazar:
+The force field where the candle was?
+
+Jim:
+The force field created by the anti-matter device.
+
+Lazar:
+It was about a 20-inch radius from the surface of the sphere.
+
+Jim:
+Where was this area, just above the device?
+
+Lazar:
+Yeah, surrounding the sphere.
+
+Jim:
+Did the sphere surround the device?
+
+Lazar:
+No, the sphere sits in the center of the device.  It's a half-sphere sitting
+on a plate, and a field surrounds the half-sphere.
+
+Jim:
+And you just place a candle in there?
+
+Lazar:
+No, no, no.  That was a separate demonstration.  I'm just telling you 
+where the field EXTENDS from.
+
+Jim:
+Oh, that's what I'm curious about.
+
+Lazar:
+No, they tap the field off using a wave guide, off of the sphere.  And this 
+is a completely different setup, where they had a mockup small gravity 
+amplifier, and there were three focused into a point, and that area of focus 
+was probably nine or ten inches in diameter.
+
+Jim:
+They displaced this area or moved this area?
+
+Lazar:
+No, it wasn't displaced; it's just where the field was generated.
+
+Jim:
+And in there you put the candle?
+
+Lazar:
+Right.
+
+Jim:
+And that thing can actually bounce golf balls off of it?
+
+Lazar:
+No, no.  The golf ball thing, again, had nothing to do with that setup.  The 
+golf ball thing had something to do with just when the reactor was 
+energized, before the wave guide was put on or anything.  We were just 
+pushing on the field; it was being demonstrated to me; and we just 
+bounced a golf ball off the top.
+
+
+
+======================================================================
+
+March, April 1990 (approximate time of interviews):  "Alien Contact" by 
+Timothy Good.  Published by William Morrow and Company in 1991 & 
+1993.
+
+This book was also published under the title "Alien Liaison:  The 
+Ultimate Secret".  Some of the Lazar info is a rehash of earlier interviews 
+with Knapp and excerpts from his tape, however there is some new stuff 
+and drawings by Lazar.
+
+
+....The craft does not create an "antigravity" field, as some have surmised.  
+"It's a gravitational field that's out of phase with the current one," Lazar 
+explained in a 1989 radio interview.  "It's the same gravitational wave.  
+The phases vary from 180 degrees to zero...in a longitudinal 
+propagation."
+
+
+[BREAK]
+
+Assuming they're in space, they will focus the three gravity generators on 
+the point they want to go to.  Now, to give an analogy:  If you take a thin 
+rubber sheet, say, lay it on a table and put thumbtacks in each corner, 
+then take a big stone and set it on one end of the rubber sheet and say 
+that's your spacecraft, you pick out a point that you want to go to - 
+which could be anywhere on the rubber sheet - pinch that point with your 
+fingers and pull it all the way up to the craft.  That's how it focuses and 
+pulls that point to it.  When you then shut off the gravity generator[s], 
+the stone (or spacecraft) follows that stretched rubber back to its point.  
+There's no linear travel through space; it actually bends space and time 
+and follows space as it retracts.
+
+In the first mode of travel - around the surface of a planet - they 
+essentially balance on the gravitational field that the generators put out, 
+and they ride a "wave", like a cork does in the ocean.  In that mode 
+they're very unstable and are affected by the weather.  In the other mode 
+of travel - where they can travel vast distances - they can't really do that 
+in a strong gravitational field like Earth, because to do that, first of all, 
+they need to tilt on their side, usually out in space, then they can focus on 
+the point they need to with the gravity generators and move on.
+
+If you can picture space as a fabric, and the speed of light is your limit, 
+it'll take you so long , even at the speed of light, to get from point A to 
+point B.  You can't exceed it - not in this universe anyway.  Should there 
+be other parallel universes, maybe the laws are different, but anyone that's 
+here has to abide by those rules.  The fact is that gravity distorts time and 
+space.  Imagining that you're in a spacecraft that can exert a tremendous 
+gravitational field by itself, you could sit in any particular place, turn on 
+the gravity generator, and actually warp space and time and "fold" it.  By 
+shutting that off, you'd click back and you'd be at a tremendous distance 
+from where you were, but time wouldn't have even moved, because you 
+essentially shut it off.  It's so farfetched.  It's difficult for people to
+grasp, and as stubborn as the scientific community is, they'll never buy 
+it that this is in fact what happens.
+
+[BREAK]
+
+According to Lazar, the propulsion system he worked on at S-4 gives 
+rise to certain peculiar effects, including INVISIBILITY of the craft:
+
+"You can be looking straight up at it, and if the gravity generators are in 
+the proper configuration you'd just see the sky above it - you won't see 
+the craft there.  That's how there can be a group of people and only some 
+people can be right under it and see it.  It just depends how the field is 
+bent.  It's also the reason why the crafts appear as if they're making 90-
+degree turns at some incredible speed; it's just the time and space 
+distortion that you're seeing.  You're not seeing the actual event 
+happening."
+
+[BREAK]
+
+If the crafts look like they're flying at seven thousand miles per hour and 
+they make a right-angled turn, it's not necessarily what they're doing.  
+They can APPEAR that way because of the gravitational distortion.  I 
+guess a good analogy is that you're always looking at a mirage - [it's only 
+when] the craft is shut off and sitting on the ground, THAT'S what it 
+looks like.  Otherwise, you're just looking at a tremendously distorted 
+thing, and it will appear like it is changing shape, stopping or going, and 
+it could be flying almost like an airplane, but it would never look that way 
+to you.
+
+"How close do you think you have to get before time distortion takes 
+place?" I asked.
+
+It's tough to say, because it depends on the configuration of the craft.  If 
+the craft is hovering in the air, and the gravity amplifiers are focused 
+down to the ground and it's standing on its gravity wave, you would have 
+to get into that focused area.  If you're directly underneath the craft at 
+any time there's a tremendous time distortion, and that's in proportion to 
+the proximity of the craft.
+
+
+=======================================================================
+
+September 22, 1990:  "Ufos and the Alien Presence" by Michael Lindemann.
+ 
+Published July 1991.  Available from the 2020 Group, 3463 State Street, 
+Box  264, Santa Barbara, CA  93105.  Very good Lazar interview, as well as 
+good interviews with Stanton Friedman, Linda Moulton Howe and Budd Hopkins.
+
+
+Lazar:
+I don't know if I mentioned it before, but the amplifiers always run at 
+100%.  They are always outputting a maximum gravity wave, and that 
+wave is phase-shifted from zero to 180 degrees.  That's essentially the 
+attraction and repulsion, and it's normally at a null setting somewhere in 
+between.  It's a very straight-forward system.  It looks more like a coal 
+fired engine than very hi-tech.
+
+
+
+
+==========================================================================
+
+Mid 1991:  "The Lazar Tape",  40 minute VHS videotape
+
+This tape, produced by Lazar is his "official" statement in the matter, done 
+in a science lesson format.  Although a little amateurish, it is still full of 
+information and very worthwhile.  Supposedly, there is a new version in 
+the works, with full production values.  Release date of this new version is 
+unknown.
+
+"The Lazar Tape" is available from Tri-Dot Productions, 1324 S. Eastern, 
+Las Vegas, NV, 89104 for $29.95 + $3.50 shipping.
+
+
+The following are excerpts:
+
+...And there are two specific different types of Gravity:  Gravity A and 
+Gravity B.  Gravity A works on a smaller, micro scale while Gravity B 
+works on a larger, macro scale.
+
+We are familiar with Gravity B.  It is the big gravity wave that holds the 
+Earth, as well as the rest of the planets, in orbit around the Sun and holds 
+the moon, as well as man-made satellites, in orbit around the Earth.
+
+We are not familiar with Gravity A.  It is the small gravity wave which is 
+the major contributory force that holds together the mass that makes up 
+all protons and neutrons.  Gravity A is what is currently being labeled as 
+the Strong Nuclear Force in mainstream physics, and Gravity A is the 
+wave that you need to access and amplify to enable you to cause space-
+time distortion for interstellar travel..
+
+To keep them straight, just remember that Gravity A works on an atomic 
+scale, and Gravity B is the big gravity wave that works on a stellar or 
+planetary level.  However, don't mistake the size of these waves for their 
+strength, because Gravity A is a much stronger force than Gravity B.  You 
+can momentarily break the Gravity B field of the Earth simply by jumping 
+in the air, so this is not an intense gravitational field.
+
+Locating Gravity A is no problem because it is found in the nucleus of 
+every atom of all matter here on Earth, and all matter everywhere else in 
+our universe.  However accessing Gravity A with the naturally occurring 
+elements found on Earth is a big problem.  Actually, I'm not aware of any 
+way of accessing the Gravity A wave using any Earth element, whether 
+naturally occurring or synthesized, and here's why.  
+
+We've already learned that Gravity A is the major force that holds together 
+the mass that makes up protons and neutrons.  This means the Gravity A 
+wave we are trying to access is virtually inaccessible as it is located within 
+matter, or at least the matter we have here on Earth.  
+
+          [BREAK]
+
+The most important attribute of these heavier stable elements is that the 
+Gravity A wave is so abundant that it actually extends past the perimeter 
+of the atom.  These heavier, stable elements literally have their own 
+Gravity A field around them in addition to the Gravity B field that is 
+native to all elements.
+
+No naturally occurring atoms on Earth have enough protons and neutrons 
+for the cumulative Gravity A wave to extend past the perimeter of the 
+atom so you can access it.  Even though the distance the Gravity A wave 
+extends is infinitesimal, it IS accessible and has amplitude, wavelength and 
+frequency just like any other wave in the electromagnetic spectrum.
+
+Once you can access the Gravity A wave, you can amplify it just like we 
+amplify any other electromagnetic wave.  
+
+          [BREAK]
+
+So, back to our power source.  Inside the reactor, element 115 is 
+bombarded with a proton which plugs into the nucleus of the 115 atom 
+and becomes element 116 which immediately decays and releases or 
+radiates small amounts of antimatter.  The antimatter is released in a 
+vacuum into a tuned tube which keeps it from reacting with the matter 
+that surrounds it.  It is then directed toward the gaseous matter target at 
+the end of the tube.  The matter and antimatter collide and annihilate, 
+totally converting to energy.  The heat from this reaction is converted into 
+electrical energy in a near 100% efficient thermoelectric generator.  
+
+This is a device that converts heat directly into electrical energy.  Many of 
+our satellites and space probes use thermoelectric generators, but their 
+efficiency is very, very low.
+
+All of these actions and reactions inside of the reactor are orchestrated 
+perfectly like a tiny little ballet, and in this manner the reactor provides 
+an enormous amount of power.
+
+So, back to our original question:  What is the power source that provides 
+the power required for this type of travel?  The power source is a reactor 
+which uses element 115 as a fuel, and uses a total annihilation reaction to 
+provide the heat which it converts to energy, making it a compact, 
+lightweight, efficient, onboard power source.
+
+I've got a couple of quick comments on element 115 for those of you that 
+are interested.  By virtue of the way it's used in the reactor, it depletes 
+very slowly, and only 223 grams of 115, which is just under 1/2 a pound, 
+can be utilized for a period of twenty to thirty years.
+
+Element 115's melting point is 1740 C.
+
+I need to state here that even though I had hands-on experience with 
+element 115, I didn't melt any of it down and I didn't use any of it for 
+twenty to thirty years to see if it depleted.
+
+           [BREAK]
+
+Now when a disk travels near another source of gravity, such as a planet 
+or moon, it doesn't use the same mode of travel that we learned about in 
+our science lesson.  When a disk is near another source of gravity, like 
+Earth, the Gravity A wave which propagates outward from the disk is 
+phase-shifted into the Gravity B wave which propagates outward from the 
+Earth, and this creates lift.  The gravity amplifiers of the disk can be 
+focused independently and they are pulsed and do not stay on 
+continuously.  
+
+When all three of these amplifiers are being used for travel, they are in the 
+delta configuration, and when only one is being used for travel it is in the 
+omicron configuration.  
+
+As the intensity of the gravitational field around the disk increases, the 
+distortion of space-time around the disk also increases.  And if you could 
+see the space-time distortion, this is how it would look....
+
+[Draws a side-view picture of saucer hovering above ground, with field 
+surrounding it and running straight down to the ground.  Picture a disk on 
+the end of a pole, then throw a sheet over it.]
+
+As you can see, as the output of the gravitational amplifiers becomes more 
+intense, the form of space-time around the disk not only bends upward, 
+but at maximum distortion actually folds over into almost a heart shape 
+around the top of the disk.
+
+Now remember, this space-time distortion is taking place 360 degrees 
+around the disk, so if you were looking at the disk from the top, the 
+space-time distortion would be in the shape of a doughnut.  When the 
+gravitational field around the disk is so intense, that the space-time 
+distortion around the disk achieves maximum distortion and is folded up 
+into this heart shaped form, the disk can't be seen from any vantage point, 
+and for all practical purposes is invisible.  All you could see would be the 
+sky surrounding it.  
+
+
+
+
+
+=========================================================================
+
+May 1, 1993:  "Bob Lazar at The Ultimate UFO Seminar" at Rachel, Nevada
+
+A complete 27 page transcript is available for $8 + $2 shipping ($5 
+overseas) from Glen Campbell, HCR Box 38, Rachel NV  89001
+
+Question:  
+I'm interested in a little bit more about the physics of the power generation 
+from the development of the anti-matter to the Gravity "A" wave and the 
+amplification and the process of generation of that and being able to fold 
+space.
+
+Lazar: 
+Well, it's...  I can give you, I guess, a brief overview of essentially how 
+that works.  If you want an in-depth description, you can give me your 
+address and I can send you a paper on it.  Essentially, what the reactor 
+does is provide electrical power and the base gravity wave to amplify, and 
+it does that by interacting matter and antimatter, essentially.  The way it 
+does that is injecting an accelerated proton into a piece of 115.  That 
+spontaneously generates anti-hydrogen, essentially.  That's reacted in a 
+small area.  It's a compressed gas, probably compressed atmospheric gas, 
+and the antimatter reacting with matter produces the energy, mainly heat 
+energy, and that is converted into electrical energy by a thermionic 
+generator that appeared to be 100% efficient, which is a difficult concept 
+to believe anyway.  Also, the reactor has two functions.  That's one of 
+them; the other function is, it provides the basic gravity wave that's 
+amplified, and that appears at the upper sphere of the amplifier itself, and 
+that's tapped off with a waveguide, similar to microwaves, and is amplified 
+and focused, essentially.
+
+Question:  
+So how is the electrical energy related to the amplification of the 
+gravitational "A" wave energy?
+
+Lazar:
+The electrical energy is transmitted essentially without wires, and I related 
+it to almost a Tesla setup.  It seemed like each sub component on the craft 
+was attuned to the frequency that the reactor was operating at, so 
+essentially the amplifiers themselves received the electrical energy, like a 
+Tesla coil transmits power to a fluorescent tube, and what was the rest of 
+the question?
+
+Question:  
+Yeah, in other words, what is the relationship between... I think you 
+basically answered it.
+
+Lazar:
+Yeah, that's how the amplifiers receive the power and through the 
+waveguide to receive the basic wave.  It's almost...It's very, very similar to 
+a microwave amplifier...
+
+Question:  
+Was the local means of propulsion the same as this across-space 
+distances?  What was the local means of propulsion?
+
+Lazar: 
+The local means of propulsion is essentially them balancing on a out of 
+phase gravity wave, and it's not as stable as you would think.  When the 
+craft took off, it wobbled to some degree.  I mean a modern day Hawker 
+Harrier or something along those lines of vertical takeoff craft is much 
+more stable than then in the omicrom configuration, which is that mode of 
+travel.  The delta configuration is where they use the three amplifiers. 
+Those are the only two methods I know about for moving the craft.
+
+Question:  
+When you listen to some abduction reports, whether or not people believe 
+it or not, there seems to be a common thread of people being hit by blue 
+beams of light....
+
+Lazar:
+Any of the three gravity amplifiers could do that, could lift something off 
+the ground, or for that matter compact it into the ground.  That's not a 
+problem, because the craft can operate on one amplifier, in omicron mode, 
+hovering.  That would leave the other three (?) amplifiers free to do 
+anything.  So I imagine they could pick up cows or whatever else they 
+want to do.  On the craft I worked on there was absolutely no provision 
+for anything to come in through the bottom of the craft, or anything along 
+those lines...
+
+Question:  
+So what was the course of energy?  How did it go from one area to 
+another area?
+
+Lazar: 
+The best guess is essentially it operated like a Tesla coil does.  A 
+transmitter and essentially a receiver tuned to the transmitting frequency 
+and receives electrical power.  There again, that's not real advanced 
+technology.  Tesla did that in the 30s, I think.
+
+Question:  
+You mentioned the photon earlier.  Do you think that physics is taking a 
+wrong turn by looking for exchange particles, when you're talking about 
+the  strong force of gravity again?  I'm not clear why you're skeptical 
+about the graviton?
+
+Lazar:
+About the graviton?
+
+Question:
+Every other force seems to have exchange particles connected with it.
+
+Lazar:
+No, not necessarily.  I mean, they make it have one, but as time goes on, 
+that really hasn't held true.  The bottom line is, they don't...First of all, 
+they don't even believe there's a graviton anymore, so I'm not the only 
+one.  As far as exchange particles, still, though some of them like the zeta 
+particle, maybe that's an actual thing, but when they're looking at transfers 
+of energy, I think these are scapegoats for the most part.  A lot of 
+experiments that I was doing at Los Alamos essentially was along these 
+same lines, but other exchange particles like the intermediate vector 
+bozon, I don't believe that thing exists.  I really don't.  I think they're 
+grabbing at straws and just coming up with excuses.
+
+Question:  
+What about the small gravity, the Gravity "A"; how can you detect that 
+one?  What is the frequency of that?
+
+Lazar:
+Well, the frequency that the actual reactor operates at is like 7.46 Hertz.  
+It's a very low frequency.
+
+Question:  
+That's the frequency of Earth's gravity, or universally, all gravity?
+
+Lazar:
+That's the frequency the reactor operates at.
+
+Question:  
+I can understand a reactor functioning - theoretically I can understand a 
+reactor functioning at, say, (unintelligible word) 7.46 Hertz.  There's a 
+waveguide involved.  I don't buy 7.46...
+
+Lazar:
+No, that's the basic... The frequency of the gravity wave that's produced, it 
+has to be higher frequency, because you're in a microwave range to follow 
+a conduit like that.
+
+Question:  
+I understand from Lear's lecture that it had a tendency to conduct on the 
+outside also of the reactor.
+
+Lazar:
+Right.  Well, that's all... this was the electric field we were talking about.  
+The basic frequency, I think, was the way the reactor's operating.  The 
+pulses that we detected out of it were probably, instead of a straight DC 
+power supply, it was more along the lines of a pulse, as if we were getting 
+a burst of particles coming out:  An antimatter emission, then a reaction, a 
+pulse of energy, and that would repeat.  That's about seven and a half 
+Hertz, something along those lines.
+
+Question:  
+Bob, the microwave frequency going to the waveguide is electromagnetic, 
+or that's gravitational?
+
+Lazar:
+They're one in the same.
+
+Question:  
+I don't understand what you mean by that.
+
+Lazar:
+Gravity is... Unfortunately, physics hasn't gotten to that part yet,  but 
+gravity essentially is part of the electromagnetic spectrum.
+
+Question:  
+Then what frequency is it?
+
+Lazar:
+That's something I'm reserving for myself.
+
+Question:  
+Something about the microwave range?
+
+Lazar:
+Something about the microwave range.  Well, you can sort of figure it out 
+by the dimensions of the waveguide itself, and that's about it.
+
+Question:  
+Positive energy versus regular photon?
+
+Lazar:
+No, it's not photon.
+
+Question:  
+Electromagnetic Energy?
+
+Lazar:
+Right.  I'm not trying to be secret, but this is part of the equipment that 
+I'm working on, and I want to get it operating before...
+
+Question:  
+I hope we'll find out one day
+
+Lazar:
+Absolutely.
+
+
+                         ANOTHER FILE LEECHED FROM:
+
+                 /\____/\__ /\./\_____/\__  /\__  /\___/\  _
+               _/    _/ ._//  |__  __/ (  |/  _ \/    \  \/ \
+               \  ø /  .  \_  :./  \.| /  |   .  \ ø__/___  /
+              -=\___\______/__||____||____|\__|__/_|__\ )  /=-
+              -=====Y=================================Y=\ /==-
+                    :       tRiStAR - REDSECtoR       :  Y[M1]
+                    . .____/\_________/\__________.   |  .
+                    ; l___/  |_____  /  __________|   .  |
+                         /   |  __ _/.___   \_/   |   ;  :
+                       _/RtX |  \    |   |   /    |      .
+                       \  ___|___\   |____  /\  __|
+                        \/   :    \__|    \/  \/
+                    W.O.R.L.D. H.E.A.D.Q.U.A.R.T.E.R.S.
+

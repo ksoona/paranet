@@ -1,0 +1,328 @@
+From pfm!public!incom!cat!Germany.EU.net!mcsun!uknet!warwick!news.dcs.warwick.ac.uk!mrccrc!news Thu Jun 24 15:14:11 1993
+Newsgroups: alt.alien.visitors
+Path: pfm!public!incom!cat!Germany.EU.net!mcsun!uknet!warwick!news.dcs.warwick.ac.uk!mrccrc!news
+From: sgamble@crc.ac.uk (Steve Gamble x3293)
+Subject: FAQ - Introduction (Part 1 of 5)
+Message-ID: <1993Jun23.125155.16207@crc.ac.uk>
+Sender: news@crc.ac.uk
+Nntp-Posting-Host: germanium
+Reply-To: sgamble@crc.ac.uk
+Organization: HGMP Resource Centre, Harrow, Middx
+References: <C8ryAA.Jt2@compsci.liverpool.ac.uk>
+Date: Wed, 23 Jun 1993 12:51:55 GMT
+Lines: 283
+
+
+              alt.alien.visitors Frequently Asked Questions
+                   This FAQ was last updated: 23 June 1993
+       It currently takes up 130k (around 67 printed pages) in all
+                       Line width is about 75 char.
+                             (Part 1 of 5)
+
+
+Hello and welcome to the latest posting of the alt.alien.visitors
+Frequently Asked Questions.  Although the Newsgroup is called 
+alt.alien.visitors, both the group and the FAQ cover the whole field of
+UFOs, which depending on your viewpoint may or may not be the same as
+alien visitations. This FAQ is designed to answer questions of people who are
+new to this Usenet discussion group, and designed to be a useful
+reference source to those interested in UFOlogy.
+
+The FAQ is the result of contributions from many people.  The views expressed
+are varied and unless otherwise stated should not be taken to represent the
+opinions of any one contributor, the editor or the contributors as a whole.
+Neither, unless otherwise stated, should the views expressed be taken as in
+anyway representing any organisation or employer with whom the contributors
+are connected. The current editor is Steve Gamble (s.gamble@crc.ac.uk). 
+
+The FAQ was started by FSDLK@acad3.alaska.edu and to a large extent this
+version of the FAQ is as he handed it over. The following is from the
+introduction he originally wrote and I feel still applies "I tried to keep a 
+neutral stance when I researched many of the subjects covered in this FAQ;
+however you may also notice that some of the material seem to be
+one-sided. When doing some of the research I may have only used one book
+or source, thus (as you may have noticed) some authors present
+information from only one point of view and this has a tendency to be
+carried over to this FAQ, due to the lack of information on the subject
+from another point of view.  (deep huh? well I hope to include more
+viewpoints as this FAQ grows.) Also please when reading information from
+this FAQ (as one poster put it) take everything you read here with a very
+large grain of salt. (rock salt) Even I don't believe all the information
+that I have included in this FAQ. As I said its mainly a reference to
+help you out. If you find yourself interested in a UFO related subject,
+**DO RESEARCH** read books on the subject, dig into both sides, write
+letters to the authors and researchers ". 
+
+A number of people have contributed to the FAQ, these include amongst others 
+Donovan Kienenberger, Jeff Papineau and Charles Mcgrew.  Many more are
+mentioned as you go through the FAQ next to their contribution.
+
+Charles is trying to make the FAQ together with other UFO related material
+available by ftp. Here are the details:
+
+ftp.rutgers.edu (128.6.26.25)
+
+	many ufo-related documents (some of dubious reputability) in
+	pub/ufo.  See README's in the directory (and subdirectories).
+	Files are a little disorganized right now, since the document-
+	collection process is still going on, but if you're looking
+	for that "special file", this is a good place to check out.
+	More recent versions of this FAQ can be found here as
+	a.a.v-faq.  All files except the README's are in unix-compressed
+	format, so please be sure to use 'binary' transfer mode.
+	Anonymous ftp enabled.
+									
+
+Contents
+========
+
+Main Sections
+-------------
+0.1: About alt.alien.visitors
+0.2: Posting to alt.alien.visitors
+0.3: People who post to alt.alien.visitors
+0.4: Common Sense Guidelines
+0.5: Example Posting
+
+Terminology and Definitions Used in UFOlogy
+-------------------------------------------
+2.00: a.a.v.
+2:01: Astronomical Units (A.U.)
+2:02: Close Encounters (CE) & Visual Sightings
+2:03: Marfa Lights
+2:04: Men In Black (MIB)
+2:05: Tectonic Strain Theory (TST)
+2:06: UFOnauts
+2:07: Unusual Ground Markings (UGM)
+2:08: USAF
+2:09: Zine
+
+Alien Races
+-----------------
+3.00: Arcturus
+3.01: Aryans (Blondes)
+3.02: Blues (Star Warriors)
+3.03: Confederation of Humans
+3.04: Greys
+3.05: Orion Empire (Orion forces)
+3.06: Pleiadians
+3.07: Sirius
+3.08: Reptoids
+3.09: Vega
+
+Abductions and Current Theories
+------------------------------
+4.00: About Abductions
+
+UFOlogists
+----------
+5:00: Hopkins, Budd 
+5:01: Jacobs, Dr David 
+5:02: Klass, Philip J.
+5.03: Spencer, John 
+5:04: Marciniak, Barbara J. 
+5:05: Randles, Jenny
+
+UFO Projects & Theories & Controversies
+----------------------------------------
+6.00: Aurora Project or "deep black" projects
+6.02: NASA Footage September 10th
+6.03: Planetoid (Wormwood)
+6.04: Project Blue Book
+6.05: Roswell Crash Incident
+
+UFO Movies, Documentaries and TV Programs
+----------------------------------------
+= 7.00: TV Programs
+7.01: E. T. Monitor (the Keystone Inspirational Network)
+7.02: Hard Copy (??)
+7.03: Intruders
+7.04: National Geographic (PBS)
+7.05: sightings (FOX)
+7.06: UFO Incident, The
+7.07: Unsolved Mysteries (NBC)
+
+= 7.08: UFO VIDEOS
+7.09: Close Up 
+7.10: Communion
+7.11: UFO Coverup Live
+7.12: UFO Documentary
+7.13: UFO, The Films Prove It 
+7.14: UFO Review, The Researchers
+
+UFO Magazines and Publications (UFOzines)
+-----------------------------------------
+8.00: Circular, The 
+8.01: Cerealogist, The 
+8.02: Connecting Link Magazine
+8.03: CONTINUUM
+8.04: Crop Watcher, The 
+8.05: Earth,
+8.06: Electronic Journal of the Astronomical Society of the Atlantic, The
+8.07: Faithist Journal, The 
+8.08: Focus
+8.09: Fortean Times, 
+8.10: Inner Light
+8.11: International UFO Library Magazine 
+8.12: Magonia,
+8.13: Orvotron Newsletter
+8.14: Ovni Presence
+8.15: Revelations of Awareness
+8.16: Swamp Gas Journal
+8.17: UFO Universe
+
+UFO Book Publishers
+-------------------
+9.00: Advent Publishing Company
+9.02: Arnerica West Publishers 
+9.03: Arcturus Book Service
+9.04: Condor Books, Inc.
+9.05: Document Research Services
+9.06: Earth Star Publications
+9.07: Eden Press
+9.08: JACO Book Publishers
+9.09: The Library of the New Essenes of Inyo
+9.10: Luna Ventures 
+9.11: The Pleiades Project 
+9.12: UFO Audio-Video Clearing House
+9.13: UFO Books
+9.14: UFO Photo Archives
+9:15: Worldwide UFO Newsclipping Bureau and Public Information Center 955  
+	West
+9.16: Spacelink Books
+
+Miscellaneous Information
+-----------------------
+10.00: A UFO Book List 
+10.01: alt.alien.visitors archives (back issues)
+10.02: Big Foot (Sasquatch)
+10.03: Free UFO Class
+10.04: Freedom of Information
+10.05: Hidden Ancient Ruins
+10.06: Inter Library Loans (ILL)
+10.07: NASA Shuttle Footage
+10.08: UFO Related anonymous FTP Sites
+
+UFO Organizations                                  * Assumed Acronym
+------------------
+11.00: Aerial Phenomenon Research: The Indiana Group  . . . . .*(APR)
+11.02: Aetherius Society, The 
+11.03: Ancient Astronaut Society    . . . . . . . . . . . . . .*(AAS)
+11.04: Ancient Truth Research Foundation    . . . . . . . . . .*(ATRF)
+11.05: Awareness Reserch Foundation, Inc , The    . . . . . . .*(ARF)
+11.06: Borderland Sciences Research Foundation  . . . . . . . . (BSRF)
+11.07: British UFO Research Association . . . . . . . . . . . . (BUFORA)
+11.08: California UFO     . . . . . . . . . . . . . . . . . . .*(CUFO)
+11.09: Citizens Against UFO Secrecy   . . . . . . . . . . . . . (CAUS)
+11.10: Committee for the Scientific Investigation of 
+       Claims of the Paranormal Contactee   . . . . . . . . . . (CSICOP)
+11.11: Computer UFO Network   . . . . . . . . . . . . . . . . . (CUFON)
+11.12: Contactee
+11.13: Cosmic Awareness Communications  . . . . . . . . . . . .*(CAC)
+11.14: CSETI                . . . . . . . . . . . . . . . . . . (CSETI)
+11.15: Delval UFO, Inc. 
+11.16: Fair Witness Project, Inc., The  . . . . . . . . . . . .*(FRP)
+11.17: Federation, The
+11.18: Flying Saucer Information Center . . . . . . . . . . . .*(FSIS)
+11.19: Fortean Research Center, The
+
+(start 3 of 3)
+11.20: Fund for UFO Research, Inc.,The  . . . . . . . . . . . .*(FUFOR)
+11.21: Gulf Breeze Skywatch   . . . . . . . . . . . . . . . . .*(GBS)
+11.22: Inner-Peace Prosperity Network . . . . . . . . . . . . . (IPPN)
+11.23: Intercontinental UF Galactic Spacecraft 
+       - Research and Analytic Network  . . . . . . . . . . . . (ICUFON)
+11.24: International Committeee for UFO Research . . . . . . . . (ICUR)
+11.25: International Fortean Organization   . . . . . . . . . . (INFO)
+11.26: Intruders Foundation
+11.27: Island Skywatch 
+11.28: J. Allen Hynek Center for UFO Studies  . . . . . . . . . (CUFOS)
+11.29: Massachusetts Center for the study of 
+       Aerial Phenomena, The  . . . . . . . . . . . . . . . . .*(MCSAP)
+11.30: Multi-national Investigations Cooperative on
+       Aerial Phenomena   . . . . . . . . . . . . . . . . . . . (MICAP)
+11.31: MutuaL UFO Network   . . . . . . . . . . . . . . . . . . (MUFON)
+11.32: Mutual UFO Network of North Carolina, Inc.   . . . . . . (MUFON-NC)
+11.33: National Investigations Committeee on UFOs  . . . . . . . (NICUFO)
+11.34: National Sighting Research Center, The   . . . . . . . . (NSRC)
+11.35: Nevada Aerial Research Group   . . . . . . . . . . . . . (NARG)
+11.36: North American Circle  . . . . . . . . . . . . . . . . . *(NAC)
+11.37: North American Institute of Crop Circle Research   . . . (NAICCR)
+11.38: Northamptonshire UFO Research Centre   . . . . . . . . . (NUFORC)
+11.39: Northern UFO Network   . . . . . . . . . . . . . . . . . (NUFON)
+11.40: Omega Communications 
+11.41: ParaNet (Paranormal Network) Information Service . . . . (PARANET)
+11.42: Pennsylvania Association for the 
+       Study of the Unexplained . . . . . . . . . . . . . . . . (PASU) 
+11.43: Pnet
+11.44: Portland UFO Group, The  . . . . . . . . . . . . . . . . (PUFOG) 
+11.45: Roundtown UFO Society
+11.46: Royal Priest Research  . . . . . . . . . . . . . . . . .*(RPR)
+11.47: Search for EXtraterrestrial Intelligence, The. . . . . . (SETI)
+11.48: Sirian Rainbow Lodge   . . . . . . . . . . . . . . . . .*(SRL)
+11.49: SKYNET 
+11.50: Socie'Te' Belge d'Etude des Phenomenes Spatiaux  . . . . (SOBEPS)
+11.51: Society for Scientific Exploration   . . . . . . . . . . (SSE) 
+11.52: Society for the Investigation of the Unexplained, The  . (SITU) 
+11.53: System Ready 
+11.54: Transcendental Communications A Division of LAMAT Research 
+11.55: UFO Contact Center International   . . . . . . . . . . . (UFOCCI) 
+11.56: UFO Fllter Center  . . . . . . . . . . . . . . . . . . . (UFOFC)
+11.57: UFO Information Retrieval Center . . . . . . . . . . . . (UFOIRC) 
+11.58: UFO Investigators League . . . . . . . . . . . . . . . . (UFOIL)
+11.59: UFO, Paranormal and Conspiracy BBS, THE  . . . . . . . .*(UFOPCBBS)
+11.60: UFO Reporting and Information Service. . . . . . . . . . (UFORIS)
+11.61: UFO Study Group of Greater St. Louis
+11.62: Ufology Research of Manitoba . . . . . . . . . . . . . . (UFOROM)
+11.63: United Aerial Phenomena Agency . . . . . . . . . . . . . (UAPA) 
+11.64: Universal Articulate Interdimensional 
+       Understanding of Science (UNARIUS Academy of Sciences) . (UNARIUS)
+11.65: Victorian U.F.O. Research Society Inc. . . . . . . . . . (VUFORS)
+
+Disclaimer
+----------
+
+FAQ Requests
+------------
+
+FAQ Suggestions
+---------------
+
+
+(Disclaimer: These are not my employer's opinions, they may not even be mine!)  
+Steve Gamble, Computing Services, Clinical Research Centre and Human Genome  
+Mapping Project Resource Centre, Watford Road, Harrow, Middlesex, HA1 3UJ, UK.
+Phone: +44 81 869 3293  JANET: s.gamble@uk.ac.crc INTERNET: s.gamble@crc.ac.uk
+
+
+
+           _  ________  ___ _________        _  _____________ _____
+          / \ \  __   \(___)        /|___   / \ \       \    |    /
+         / ¡ \ \/     /|   |       / |   | / | \ \  _,   \   !   /
+        /  |  \|   ¡  \|   |\     /  !   |/     \/\/    _/\_   _/
+       /   !   \   !   \   |Z\/ \/       /   ¡   \   \   \_/   \
+       \______ /______ /___|!/___\_______\___| __/__ |\___/_____\
+      = =====\/======\/======================|/=====\|=========== =
+                           .) U M F  W H Q (.
+                         |\                  /|
+      310.652.5688       | \     _,---,_    / |   A3000 68030 50mhz
+                          \ \[L]//\ \,' \  / /|
+    2 NoDEz RiNGDoWN      |\ \_/ \_\/   \\/ /,|    300 Megs Online
+                          | \ /--____-- / //>\'    _
+   16.8/14.4 HST DUAL      \/<<, \  /, >\< < /    (_)-D/\Y /\MiG/\!
+                            \'\~~ ^^ ~~ /.  /
+                             >/   |    \\__/
+                             <./\___/\_,>>
+                              \~~~~~~~~//
+                               \_.--,_/'
+    .________________________.   .____________________________________
+    |    ______/   .    \    |___| ___/     .    \   _____/    ______/
+    |    .____/    |____/    |   \    \     |____/___.    \    .____/
+    |    |    \    |    \    |    \    \    |   |    |     \   |    \
+    |_________/_________/_________/____/____|[M]|__________/________/
+
+                             -=> U S H Q <=-
+  --------------------------------------------------------------------
+     Online UFO conference and Files. Messages/Pictures/Information
+       and other interesting topics regarding UFO & Govt coverups.
+  --------------------------------------------------------------------

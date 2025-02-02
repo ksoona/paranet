@@ -1,0 +1,508 @@
+----------------------------------------------------------------------------- 
+This textfile was leeched from LSD's Grapevine Magazine Issue #16
+If you wish to use it for other productions please check with the author 
+of the article or LSD.  If this save article function is abused it will 
+not be included in future versions. 
+-----------------------------------------------------------------------------                         T H E   F A C E   O N   M A R S
+                                        
+                                        
+            By Mike Malin, Principal Investigator of the Mars Face
+                                        
+                                        
+For those of you not familiar with the  other "tabloid" published reports.
+topic, several Viking images show       
+features on the surface of Mars that,   The basic premise of these people is
+in the eyes of some people, resemble    that the features are artificial and
+"faces", "pyramids" and other such      are messages to us from alien beings.
+"artifacts".  The most famous of these  Their tack is to say, "These should be
+is the "Face on Mars" and associated    rephotographed by Mars Observer, since
+features "The City", "The Fortress",    with high resolution we should be able
+"The Cliff", "The Tholus" and "The D&M  to PROVE that these are artificial.
+Pyramid".   A fairly substantial        If these are in fact artificial, this
+"cottage" industry has sprung up        would rank as one of the greatest
+around these features, with several     discoveries in history and thus every
+books having been written about them,   effort should be made to acquire
+newsletters published, public           images".  Evidence cited as presently
+presentations, press conferences and    "proving" these are unnatural
+of course, National Enquirer and        landforms include measurements of
+--------------------------------------------------------------------------------
+angles and distances that define        "Pyramid" and within the above stated
+"precise" mathematical relationships.   precision.  Other mathematical
+One of the most popular is that "The    relationships abound.  The advocates
+D&M Pyramid" is located at 40.868       of this view argue that "no scientific
+degrees North Latitude, relative to     study of these features has been
+the control network established by      conducted under NASA auspices" and
+Merton Davies (the RAND scientist who   that NASA and the conservative science
+has been more or less singularly        community are conspiring to keep the
+responsible for establishing the        "real" story from the American public.
+longitude/latitude grids on the         
+planets) to an accuracy (actually, a    The conventional view is that this is
+precision) of order 0.017 degrees.      all nonsense.  The Cydonia region lies
+                                        on the boundary between ancient upland
+They point out that 40.868 equals       topography and low-lying plains, with
+arctan (e/pi); alternatively, one of    the isolated hills representing
+the advocates notes that the ratio of   remnants of the uplands that once
+the surface area of a tetrahedron to    covered the low-lying area.  The
+its circumscribing sphere is 2.72069    features seen in these mesas and
+(e = 2.71828), which, if substituted    buttes (to bring terrestrial
+for e in the above arctan equation      terminology from the desert southwest
+gives 40.893 degrees, which is both     to bear on the problem) result from
+within the physical perimeter of the    differential weathering and erosion of
+--------------------------------------------------------------------------------
+layers within the rock materials.  The  things.  No one in the planetary
+area is of considerable importance to   science community (at least to my
+geologists because it does provide      knowledge) would waste their time
+insight into the sub-surface of Mars,   doing "a scientific study" of the
+and to its surface processes.  The      nature advocated by the proponents of
+measurement of angles and distances     the "Face on Mars is Artificial"
+seems so much numerology, especially    perspective.
+when one understands the actual         
+limitations in the control network (of  To provide you with an idea of the
+order 5-10 km, or 0.1-0.2 degrees) and  magnitude of this issue, consider that
+the imprecision of our corrections of   I spend roughly a quarter of my time
+the images (neglecting, for example,    these days trying to prepare
+topography when reprojecting data for   thoughtful answers to (often abusive)
+maps) on which people are trying to     letters from people who analyse every
+measure precise angles and distances.   word in every sentence in every
+                                        paragraph in every letter I have
+Even given accurate data, however,      written on the subject (they send
+most science does not depend solely on  copies of my letters to each other and
+planimetric measurements, even when     excerpt them in their newsletters).
+using photographs.  There are many      They see innuendo and hidden meaning
+other attributes used to examine        everywhere.  I also have it on first-
+features that don't work for these      hand authority that at least 2 NASA
+--------------------------------------------------------------------------------
+Headquarters managers spend similar     degrees), which is about 3 km from the
+amounts of time responding to letters   400 km orbital altitude.  It typically
+sent over from Congressmen whose        takes very small images at very high
+constituents write about "The Face"     resolution (lots of data).  Anything
+and to which NASA is obligated to       wider than 3 km cannot be imaged in
+respond.                                its entirety.
+                                        
+Before I discuss the observations MOC   2. Along-track Field of View - The
+will make of "The Face on Mars", some   MOC's downtrack field of view is
+facts about the camera and its ability  limited by the amount of data that
+to look at specific locations are       will fit in its buffer (about 10 MB).
+needed.                                 If one uses the entire buffer (which
+                                        is not likely to be completely empty
+0. The MOC is body fixed to the         unless its planned to be) and 2:1
+spacecraft.  It has no independent      realtime predictive compression, this
+pointing capability.  It makes          translates to a downtrack image length
+pictures the same way a fax machine     of about 15 km.  We've designed the
+does (i.e., the scene is moved past     camera to be able to average pixels
+the single line detector).              together to synthesize poorer
+                                        resolution, which frees up data.
+1. Cross-track Field of View - The MOC  Under the best case buffer
+has a very small field of view (0.44    availability, an 8X summed image would
+--------------------------------------------------------------------------------
+be 3 km wide (but only 256 pixels       computing the position of the Earth,
+across) by 40960 pixels long which, at  Mars, and the spacecraft in an
+12 m/pxl (8 X 1.5) would be almost 500  inertial coordinate system.  It takes
+km long.                                a few days to do this and to use it to
+                                        determine where the spacecraft will be
+3. Pointing Control Instability - The   a few days later.  By that time,
+spacecraft uses IR horizon sensors for  gravity perturbations, atmospheric
+in-orbit pointing control.  Owing to    drag, and autonomous momentum
+variations in the IR flux of the        unloadings will have changed the
+horizon with latitude, season, surface  orbit.  Error studies suggest that the
+topography, atmospheric dust content,   uncertainty seven days after the end
+cloudiness and other meteorological     of a given orbit can be represented as
+and climatological conditions, the      a 40 second uncertainty in the time
+control capability is about 10 mrad     the spacecraft will be at a specific
+(0.6 degrees = 4 km), which is larger   point in its orbit.  This translates
+than the MOC field of view.             (at the orbital rate of the spacecraft
+                                        projected on the ground of 3 km/s) to
+4. Spacecraft Position Uncertainty -    120 km downtrack and (because Mars
+The position of the spacecraft is       rotates at 0.24 km/s at the equator)
+determined by radio tracking for 8      9.6 km crosstrack.  At 40 degrees
+hours (roughly 4.5 hours of actually    latitude, the crosstrack uncertainty
+seeing the spacecraft) a day, and by    is 7.4 km.
+--------------------------------------------------------------------------------
+5. Non-inertial Position Uncertainty -  1-5, it is most likely that some
+The position of the spacecraft is       places will be overflown twice, and
+determined inertially.  As noted        others not at all and that our ability
+above, the position of the longitude/   to predict this is very limited.
+latitude grid is also uncertain to      
+about 5-10 km.                          We are attempting to address some of
+                                        these issues with, for example,
+6. Orbit Spacing - If, in spite of the  optical navigation.  This could reduce
+preceding, orbits were equally spaced,  the spacecraft position uncertainty by
+then the average spacing of orbits at   perhaps a factor of five or more.  We
+the equator for the 687 day mission     will try to create a new control grid
+would be about 2.5 km, which means      with higher precision (perhaps as good
+that each spot on the equator will      as 1 km).  But we cannot do anything
+fall within the MOC field of view in    about the orbit spacing or the
+(possibly) two images.  In fact, the    pointing control or the width of the
+repeat distance is just over 3.1 km,    MOC field of view.  Thus, hitting
+again assuming equal spacing and it is  anything as small as a specific 3 km
+more than likely that each spot on      piece of the planet is going to be
+the equator will only be seen once. At  very difficult.
+40 degrees latitude, the spacing is     
+roughly 2.4 km, and any location will   And what about the fact that Mars has
+be seen, at most, twice.  Given Items   a very dynamic atmosphere?  The one
+--------------------------------------------------------------------------------
+orbit we fly over something of          detailed copies of that binary data
+interest, it may be cloudy, or dusty.   base!).  We will try to get pictures
+                                        (its almost impossible not to try to
+Despite providing a number of people    take the pictures, since the data base
+involved with the "private" studies of  and initial targeting effort is fully
+the "Face of Mars" with exactly the     automatic).  Of course, given the
+same information I've just noted, they  factors noted above, I'd be stupid to
+continue to think I am purposefully     tell people we were definitely,
+avoiding taking the picture they want.  without doubt and postively without
+They are very concerned that the MOC    uncertainty going to get a picture of
+is being run by a company and that I    any of these things.  For one thing,
+will try to ransom or profit from the   they would then cry that I was hiding
+"important" data (as if they are not).  the picture if in fact we never got
+And talk of conspiracy is everywhere.   one.  So my approach has been not to
+But it isn't the case: if we get a      promise anything, which of course gets
+picture of "The Face," we will most     me in trouble, too.
+definitely release it.                  
+                                        We will try.  We more than likely will
+"The Face on Mars", "The City", "The    not succeed.  There is no conspiracy.
+Fortress", "The Cliff", "The Tholus",   We are not ignoring the problem (just
+"The D&M Pyramid", etc. are in our      the people, who are making a real
+target database (now they want          nuisance of themselves).          end.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+                        T H E   F A C E   O N   M A R S
+
+
+            By Mike Malin, Principal Investigator of the Mars Face
+
+
+For those of you not familiar with the
+topic, several Viking images show
+features on the surface of Mars that,
+in the eyes of some people, resemble
+"faces", "pyramids" and other such
+"artifacts".  The most famous of these
+is the "Face on Mars" and associated
+features "The City", "The Fortress",
+"The Cliff", "The Tholus" and "The D&M
+Pyramid".   A fairly substantial
+"cottage" industry has sprung up
+around these features, with several
+books having been written about them,
+newsletters published, public
+presentations, press conferences and
+of course, National Enquirer and
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+other "tabloid" published reports.
+
+The basic premise of these people is
+that the features are artificial and
+are messages to us from alien beings.
+Their tack is to say, "These should be
+rephotographed by Mars Observer, since
+with high resolution we should be able
+to PROVE that these are artificial.
+If these are in fact artificial, this
+would rank as one of the greatest
+discoveries in history and thus every
+effort should be made to acquire
+images".  Evidence cited as presently
+"proving" these are unnatural
+landforms include measurements of
+--------------------------------------------------------------------------------
+angles and distances that define
+"precise" mathematical relationships.
+One of the most popular is that "The
+D&M Pyramid" is located at 40.868
+degrees North Latitude, relative to
+the control network established by
+Merton Davies (the RAND scientist who
+has been more or less singularly
+responsible for establishing the
+longitude/latitude grids on the
+planets) to an accuracy (actually, a
+precision) of order 0.017 degrees.
+
+They point out that 40.868 equals
+arctan (e/pi); alternatively, one of
+the advocates notes that the ratio of
+the surface area of a tetrahedron to
+its circumscribing sphere is 2.72069
+(e = 2.71828), which, if substituted
+for e in the above arctan equation
+gives 40.893 degrees, which is both
+within the physical perimeter of the
+--------------------------------------------------------------------------------
+"Pyramid" and within the above stated
+precision.  Other mathematical
+relationships abound.  The advocates
+of this view argue that "no scientific
+study of these features has been
+conducted under NASA auspices" and
+that NASA and the conservative science
+community are conspiring to keep the
+"real" story from the American public.
+
+The conventional view is that this is
+all nonsense.  The Cydonia region lies
+on the boundary between ancient upland
+topography and low-lying plains, with
+the isolated hills representing
+remnants of the uplands that once
+covered the low-lying area.  The
+features seen in these mesas and
+buttes (to bring terrestrial
+terminology from the desert southwest
+to bear on the problem) result from
+differential weathering and erosion of
+--------------------------------------------------------------------------------
+layers within the rock materials.  The
+area is of considerable importance to
+geologists because it does provide
+insight into the sub-surface of Mars,
+and to its surface processes.  The
+measurement of angles and distances
+seems so much numerology, especially
+when one understands the actual
+limitations in the control network (of
+order 5-10 km, or 0.1-0.2 degrees) and
+the imprecision of our corrections of
+the images (neglecting, for example,
+topography when reprojecting data for
+maps) on which people are trying to
+measure precise angles and distances.
+
+Even given accurate data, however,
+most science does not depend solely on
+planimetric measurements, even when
+using photographs.  There are many
+other attributes used to examine
+features that don't work for these
+--------------------------------------------------------------------------------
+things.  No one in the planetary
+science community (at least to my
+knowledge) would waste their time
+doing "a scientific study" of the
+nature advocated by the proponents of
+the "Face on Mars is Artificial"
+perspective.
+
+To provide you with an idea of the
+magnitude of this issue, consider that
+I spend roughly a quarter of my time
+these days trying to prepare
+thoughtful answers to (often abusive)
+letters from people who analyse every
+word in every sentence in every
+paragraph in every letter I have
+written on the subject (they send
+copies of my letters to each other and
+excerpt them in their newsletters).
+They see innuendo and hidden meaning
+everywhere.  I also have it on first-
+hand authority that at least 2 NASA
+--------------------------------------------------------------------------------
+Headquarters managers spend similar
+amounts of time responding to letters
+sent over from Congressmen whose
+constituents write about "The Face"
+and to which NASA is obligated to
+respond.
+
+Before I discuss the observations MOC
+will make of "The Face on Mars", some
+facts about the camera and its ability
+to look at specific locations are
+needed.
+
+0. The MOC is body fixed to the
+spacecraft.  It has no independent
+pointing capability.  It makes
+pictures the same way a fax machine
+does (i.e., the scene is moved past
+the single line detector).
+
+1. Cross-track Field of View - The MOC
+has a very small field of view (0.44
+--------------------------------------------------------------------------------
+degrees), which is about 3 km from the
+400 km orbital altitude.  It typically
+takes very small images at very high
+resolution (lots of data).  Anything
+wider than 3 km cannot be imaged in
+its entirety.
+
+2. Along-track Field of View - The
+MOC's downtrack field of view is
+limited by the amount of data that
+will fit in its buffer (about 10 MB).
+If one uses the entire buffer (which
+is not likely to be completely empty
+unless its planned to be) and 2:1
+realtime predictive compression, this
+translates to a downtrack image length
+of about 15 km.  We've designed the
+camera to be able to average pixels
+together to synthesize poorer
+resolution, which frees up data.
+Under the best case buffer
+availability, an 8X summed image would
+--------------------------------------------------------------------------------
+be 3 km wide (but only 256 pixels
+across) by 40960 pixels long which, at
+12 m/pxl (8 X 1.5) would be almost 500
+km long.
+
+3. Pointing Control Instability - The
+spacecraft uses IR horizon sensors for
+in-orbit pointing control.  Owing to
+variations in the IR flux of the
+horizon with latitude, season, surface
+topography, atmospheric dust content,
+cloudiness and other meteorological
+and climatological conditions, the
+control capability is about 10 mrad
+(0.6 degrees = 4 km), which is larger
+than the MOC field of view.
+
+4. Spacecraft Position Uncertainty -
+The position of the spacecraft is
+determined by radio tracking for 8
+hours (roughly 4.5 hours of actually
+seeing the spacecraft) a day, and by
+--------------------------------------------------------------------------------
+computing the position of the Earth,
+Mars, and the spacecraft in an
+inertial coordinate system.  It takes
+a few days to do this and to use it to
+determine where the spacecraft will be
+a few days later.  By that time,
+gravity perturbations, atmospheric
+drag, and autonomous momentum
+unloadings will have changed the
+orbit.  Error studies suggest that the
+uncertainty seven days after the end
+of a given orbit can be represented as
+a 40 second uncertainty in the time
+the spacecraft will be at a specific
+point in its orbit.  This translates
+(at the orbital rate of the spacecraft
+projected on the ground of 3 km/s) to
+120 km downtrack and (because Mars
+rotates at 0.24 km/s at the equator)
+9.6 km crosstrack.  At 40 degrees
+latitude, the crosstrack uncertainty
+is 7.4 km.
+--------------------------------------------------------------------------------
+5. Non-inertial Position Uncertainty -
+The position of the spacecraft is
+determined inertially.  As noted
+above, the position of the longitude/
+latitude grid is also uncertain to
+about 5-10 km.
+
+6. Orbit Spacing - If, in spite of the
+preceding, orbits were equally spaced,
+then the average spacing of orbits at
+the equator for the 687 day mission
+would be about 2.5 km, which means
+that each spot on the equator will
+fall within the MOC field of view in
+(possibly) two images.  In fact, the
+repeat distance is just over 3.1 km,
+again assuming equal spacing and it is
+more than likely that each spot on
+the equator will only be seen once. At
+40 degrees latitude, the spacing is
+roughly 2.4 km, and any location will
+be seen, at most, twice.  Given Items
+--------------------------------------------------------------------------------
+1-5, it is most likely that some
+places will be overflown twice, and
+others not at all and that our ability
+to predict this is very limited.
+
+We are attempting to address some of
+these issues with, for example,
+optical navigation.  This could reduce
+the spacecraft position uncertainty by
+perhaps a factor of five or more.  We
+will try to create a new control grid
+with higher precision (perhaps as good
+as 1 km).  But we cannot do anything
+about the orbit spacing or the
+pointing control or the width of the
+MOC field of view.  Thus, hitting
+anything as small as a specific 3 km
+piece of the planet is going to be
+very difficult.
+
+And what about the fact that Mars has
+a very dynamic atmosphere?  The one
+--------------------------------------------------------------------------------
+orbit we fly over something of
+interest, it may be cloudy, or dusty.
+
+Despite providing a number of people
+involved with the "private" studies of
+the "Face of Mars" with exactly the
+same information I've just noted, they
+continue to think I am purposefully
+avoiding taking the picture they want.
+They are very concerned that the MOC
+is being run by a company and that I
+will try to ransom or profit from the
+"important" data (as if they are not).
+And talk of conspiracy is everywhere.
+But it isn't the case: if we get a
+picture of "The Face," we will most
+definitely release it.
+
+"The Face on Mars", "The City", "The
+Fortress", "The Cliff", "The Tholus",
+"The D&M Pyramid", etc. are in our
+target database (now they want
+--------------------------------------------------------------------------------
+detailed copies of that binary data
+base!).  We will try to get pictures
+(its almost impossible not to try to
+take the pictures, since the data base
+and initial targeting effort is fully
+automatic).  Of course, given the
+factors noted above, I'd be stupid to
+tell people we were definitely,
+without doubt and postively without
+uncertainty going to get a picture of
+any of these things.  For one thing,
+they would then cry that I was hiding
+the picture if in fact we never got
+one.  So my approach has been not to
+promise anything, which of course gets
+me in trouble, too.
+
+We will try.  We more than likely will
+not succeed.  There is no conspiracy.
+We are not ignoring the problem (just
+the people, who are making a real
+nuisance of themselves).          end.
+--------------------------------------------------------------------------------
+
+                         ANOTHER FILE LEECHED FROM:
+
+                 /\____/\__ /\./\_____/\__  /\__  /\___/\  _
+               _/    _/ ._//  |__  __/ (  |/  _ \/    \  \/ \
+               \  ø /  .  \_  :./  \.| /  |   .  \ ø__/___  /
+              -=\___\______/__||____||____|\__|__/_|__\ )  /=-
+              -=====Y=================================Y=\ /==-
+                    :       tRiStAR - REDSECtoR       :  Y[M1]
+                    . .____/\_________/\__________.   |  .
+                    ; l___/  |_____  /  __________|   .  |
+                         /   |  __ _/.___   \_/   |   ;  :
+                       _/RtX |  \    |   |   /    |      .
+                       \  ___|___\   |____  /\  __|
+                        \/   :    \__|    \/  \/
+                      U.S. H.E.A.D.Q.U.A.R.T.E.R.S.!
+

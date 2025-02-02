@@ -1,0 +1,265 @@
+
+>From: kd2bd@ka2qhd.UUCP (John Magliacane)
+>Newsgroups: rec.ham-radio
+>Subject: *COMPLETE* List of Space Shuttle Frequencies!
+>Keywords: Audio, Video, Shuttle Communications
+>Message-ID: <92@ka2qhd.UUCP>
+>Date: 15 Jan 90 21:24:08 GMT
+>Organization: KA2QHD PUB ACCESS UN*X,OCEAN NJ
+>Lines: 254
+
+
+
+From NASA SPACELINK
+Provided by the NASA Educational Affairs Division
+Operated by the Marshall Space Flight Center
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-
+
+Amateur Radio Retransmission of Shuttle Audio/Video
+
+NOTE:  This information is unofficial, and its accuracy is not guaranteed.
+
+The Goddard Space Flight Center Amateur Radio Club (GARC) has transmitted,
+by Amateur Radio, NASA Select audio on the following frequencies:
+
+75 Meters:  3.860 MHz  U.S. and Canada coverage *
+
+40 Meters:  7.185 MHz  World wide coverage *
+
+20 Meters: 14.295 MHz  World wide coverage *
+
+15 Meters: 21.395 MHz  World wide coverage *
+
+10 Meters: 28.650 MHz  World wide coverage *
+
+AO-13 (AMSAT OSCAR-13) Satellite; 145.945 MHz. Primary; 145.955 MHz.
+Alternate. This Mode B requires a satellite-high gain antenna
+
+* Coverage is dependent on Solar Activity and Ionosphere conditions. With a
+good short-wave receiver and outside antenna, reception should be
+possible.  Due to ionospheric conditions and time of day/night, certain
+bands have better reception. A search of each band is recommended.
+
+The GARC plans to re-transmit Shuttle video on Amateur TV for hams and ham
+TV watchers in the Washington, DC area. Contacts at GSFC: Russ Jones,
+N3EGO, or Frank Bauer, KA3HDO.
+
+The Marshall Center Amateur Radio Club will re-transmit NASA Select audio at
+147.100 and 145.100 MHz. These transmissions can be heard only in the local
+Huntsville, Alabama area.
+
+
+People in the greater San Francisco Bay area and Sacremento can view the
+mission via the W6NKF Amateur Television repeater on MT.Diablo which operates
+on 427.250 MHZ with vertical polarization. Those with cable ready TVs and VCRs
+or cable TV converters can tune this equipment to channel 58 in the CATV
+format and by hooking up an outside TV antenna should be able to receive the
+telecast. This makes the service available to the general public, including
+schools, colleges, etc.
+
+
+Shuttle audio is re-transmitted in the Minneapolis/St. Paul, Minnesota area
+on 145.150 MHZ during Shuttle flights.  Additionally, during some flights,
+the audio is also re-transmitted by the 3M ARC repeater (WB0BQG/R) on
+147.120 MHz FM.
+
+
+In the Los Angeles area, Shuttle air-to-ground audio may sometimes be heard
+on VHF at 145.460 MHz.
+
+
+The WB4LA repeater located in Dayton, Ohio on 145.110 MHz, re-transmits
+Shuttle Select audio.
+
+
+Shuttle audio is available in the Pheonix, Arizona area on 449.000 MHz FM.
+
+
+The Coastal Plains Amateur Radio Club provides Shuttle Audio on
+the WD4EVD Repeater in Ashburn, Georgia on 147.285 MHz FM.
+
+
+During STS missions, NASA Select audio is available on Amateur Radio repeater
+WD6BNO/R, transmitting on 52.220 MHz, with coverage in the central San Joaquin
+Valley, California. Coverage includes Bakersfield to Stockton. ENJOY!!
+
+
+The Ames Amateur Radio Club re-broadcasts NASA Select Audio on 145.580 MHz.
+The signal orginates from the NASA-AMES Research Center in the heart of the
+Silicon Valley, Mountain View, Ca.
+
+NASA Select video is available for those who have a line-of-sight path to Black
+Mountain via Amateur TV. For ATV details, write:
+
+AMES Amateur Radio Club, P.O. Box 73, Moffett Field, Ca., 94035-0073.
+
+
+The Johnson Space Center supplies NASA Select Audio on 146.640 MHz FM, via the
+W5RRR repeater.
+
+
+From WB4CXD: Shuttle audio can be heard in Birmingham, Alabama, on 145.380 MHz
+direct, and via the N4AHN repeater on 145.150 MHz.
+
+
+If visiting the "MILA" (Meritt Island Launch Area) at Cape Canaveral, Fla.,
+you can hear launch and air-to-ground audio on the K4GCC repeater on
+146.940 MHz.
+
+
+NASA Select is on 444.300 (NN0V) and 146.400 MHz in the Cedar Rapids, Iowa
+area.
+
+=====
+
+From Ron Parise, ASTRO-1 Shuttle Astronaut:
+
+
+Hi Folks!
+     This is in response to the question about shuttle frequencies. I tried
+to reply the other day but apparently it didn't work. The space shuttle
+transmits on three frequency bands, UHF, S-Band, and Ku-Band.
+The UHF frequencies are simple AM voice and very easy to copy. These
+frequencies are used for launch and landing operations, EVA comunications,
+(i.e. from the spacesuits back and forth to the shuttle), and as an additional
+voice downlink when other channels are in use or the current ground station
+has no S-Band capability. The frequncies in use are:
+
+                 296.8 MHz - air to ground, or orbiter to suit
+                 259.7 MHz - air to ground, or suit to orbiter
+                 279.0 MHz - suit to orbiter or suit to suit
+                 243.0 MHz - standard Mil aircraft emergency freq.
+
+     The S-Band system is one of the primary orbiter downlink bands. The voice
+channels are digital slope delta modulation and are mux'ed in with the
+rest of the orbiter telemetry, very difficult to copy. Much of the
+downlink TV is on S-Band also but it is wideband FM and should be
+easily copyable. The frequencies are:
+
+                 2287.5 MHz - primary digital downlink
+                 2250.0 MHz - wideband FM with either main engine analog
+                              telemetry during launch, or TV during orbit
+                              operations.
+
+     The Ku-Band system is used in conjunction with the tracking and data
+relay satellites and is used much more heavily in Spacelab flights than in
+others. The data is *very* high rate digital (50 Mbits/sec range) and
+therefore essentially impossible for you to demodulate and decommutate
+in your basement. Nevertheless the shuttle transmits on 15.003GHz. You
+should also note however that these transmissions are directed toward
+the TDRS satellite with a high gain antenna and would therefore not be
+copyable on the ground.
+
+     The UHF frequencies are fun to listen to but are not heavily used
+except during EVA's. You will almost always hear some activity on them
+however sometime during a mission but you just have to be patient.
+
+Happy Listening!
+Ron WA4SIR
+
+
+====
+
+
+Other Frequencies of interest:
+
+
+USAF/NASA Frequencies
+=====================
+4.510 MHz   9.974 MHz
+4.760 MHz  10.780 MHz
+4.855 MHz  11.104 MHz
+4.992 MHz  11.414 MHz
+5.350 MHz  11.548 MHz
+5.810 MHz  14.615 MHz
+6.727 MHz  19.303 MHz
+6.740 MHz  19.984 MHz
+8.993 MHz  20.191 MHz
+9.315 MHz  20.475 MHz
+
+
+HF USED AT KENNEDY SPACE CENTER : 2.182 MHz  3.023 MHz
+
+
+Search/Rescue (Aircraft) : 164.800 MHz
+              (Ships)    : 148.500 MHz, 149.100 MHz, 162.000 MHz
+
+
+S-Band Microwave
+================
+Air-to-Ground : 2205.0, 2217.5, 2250.0, 2287.5 MHz
+Ground-to-Air : 2041.9, 2201.4 MHz
+
+
+NASA Aeronautical Frequencies VHF/UHF in MHz
+============================================
+KENNEDY SC    PATRICK AFB     EDWARDS AFB
+
+117.8         118.4           116.4
+121.7         121.7           120.7
+126.2         125.1           121.8
+126.3         126.2           126.1
+284.0         128.7           127.8
+138.3         236.6
+138.45        269.9
+149.925       290.3
+162.6120      318.1
+273.5         390.1
+335.8
+340.9
+348.4
+358.3
+
+
+KSC Ground Support VHF in MHz
+=============================
+148.480    163.510    170.350
+149.170    163.560    171.150
+162.610    165.190    171.260
+163.460    170.150    173.560
+163.480    170.170    173.680
+
+
+NASA Malabar (Palm Bay)         HF Networks (in KHz)
+=============================================================================
+ 2405  Data Buoys                       2622  SRB Recovery (Primary)
+ 2664  Backup Mission Audio-Cape/Hou    2678  ETR Range Control
+ 2716  Navy Harbor Cntl-Port Canav.     2764  SRB Recovery Channel
+ 3024  Coast Guard SAR (Primary)        3187  SRB Recovery Ships Channel
+ 4376  Primary Recovery Zone SAR        4510  SRB Recovery Ships Channel
+ 4856  Cape Radio/Leader                4992  Cape Radio/Coast Guard Ships
+ 5180  NASA Tracking Ships              5187  NASA Tracking Ships
+ 5190  ETR Primary Night Channel        5350  Launch Support Aircraft
+ 5680  Launch Support Ships             5810  ETR Secondary Night Channel
+ 6720  SAR Primary Atlantic             6896  Cape Radio
+ 6837  Cape Radio                       7412  SAR Communications with Bahamas
+ 7461  Cape Radio/Launch Support A/C    7525  NASA Ground Tracking Net
+ 7676  Launch Support Aircraft          7765  SRB Recovery Ships
+ 7919  Data Channel                     7985  Data Channel
+ 9022  Launch Support Aircraft          9043  Launch Support Aircraft
+ 9132  Launch Support Aircraft         10305  Space Missile Tactical Net
+10310  Malabar-to-Ascension Is-MUX     10780  ETR Primary Day Channel
+11104  Launch Support Ships            11252  Launch Support Ships
+11407  SRB Recovery Ships              11414  Cape Radio
+11548  Cape Radio                      11621  SRB Recovery Ships
+13227  Launch Support Aircraft         13237  Data Channel
+13495  Data Channel                    13600  Malabar-to-Ascension Is-MUX
+13878  Launch Support Aircraft         14937  Ascension Is-to-Malabar-MUX
+18009  Launch Support Ships            19303  Launch Support Ships
+19640  Cape Radio                      19966  Ascension Is-to-Malabar-MUX
+20186  Launch Tracking Net             20192  Malabar-to-Ascension Is-MUX
+20198  OCC Shuttle Mission Audio       20390  ETR-Secondary Day Channel
+22755  Ascension Is-to-Malabar-MUX     23413  Cape Radio
+27065  NASA CB Radios
+
+
+73, de John, KD2BD
+
+
+
+-- 
+AMPR : KD2BD @ NN2Z (Neptune, NJ)
+UUCP : ucbvax!rutgers!petsd!tsdiag!ka2qhd!kd2bd
+       "For every problem, there is one solution which is simple,
+       neat and wrong." -- H.L. Mencken
+<<>>

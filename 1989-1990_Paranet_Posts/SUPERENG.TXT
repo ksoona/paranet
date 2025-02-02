@@ -1,0 +1,44 @@
+@BEGIN_FILE_ID.DIZA creative idea on a new type of engine
+@END_FILE_ID.DIZ
+Superconductive
+Engine
+
+
+The engine consists of superconductive plasma.
+This liquid is contained in two rings.
+One ring fits inside the centre hole of the larger ring.
+The plasma in one will rotate clockwise.
+The plasma in two will rotate anti-clockwise.
+The rings will be attached in a gyroscope fashion.
+A laser would pass through the rings to energize the
+plasma.
+The intensity of the laser would determine the power
+output of the magnetic field.
+By having the ring repell each other at a squewed
+angle, the force perpendicular to the forces of the
+repulsion would be the direction of motion.
+--------------------/I\--------------------     For this to
+I   /I\     /I\       I     /I\      /I\        function, the
+I    I       I        I      I        I         repulsion force
+I        <---   s / \  s  -->                   must create a
+I        <---     /   \     -->                 perpendicular
+I        <---    /     \    -->                 motion that
+I             n /        \
+n                                               overcomes the
+-------------------------------------------     weight of the
+                                                craft.
+The magnets would be securely mounted to the moving surface.
+By having two bar magnets situated like in the
+diagram, you would have forward and reverse.
+This is accomplished by reversing the angle
+of the two magnets.
+By having two rings in a gyroscope format, you
+would have full 360 degree movement on all axis.
+The power for the laser that charges the superconductors is powered from
+thermonuclear fusion.
+This fusion is created by heating and compressing a microscopic pellet
+of hydrogen isotope (deutrium or tritium).
+The pellet is placed at the focus of a high power, short pulsed laser
+beam.
+a rechargeable battery is used to shart the inital laser that creates th
+first nuclear fusion of the pellet.

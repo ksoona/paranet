@@ -1,0 +1,326 @@
+From pfm!public!incom!cat!Germany.EU.net!mcsun!uunet!haven.umd.edu!darwin.sura.net!news-feed-1.peachnet.edu!concert!rbdc!royc Thu Jun 24 15:18:38 1993
+Newsgroups: alt.conspiracy.jfk
+Path: pfm!public!incom!cat!Germany.EU.net!mcsun!uunet!haven.umd.edu!darwin.sura.net!news-feed-1.peachnet.edu!concert!rbdc!royc
+From: royc@rbdc.wsnc.org (Roy Crabtree)
+Subject: Re: Frontal Head Shot proof?
+Message-ID: <C923Jr.JEs@rbdc.wsnc.org>
+Organization: Red Barn Data Center
+References: <C8qrJq.35K@cbnews.cb.att.com> <1993Jun21.162039.1@cc.newcastle.edu.au> <1993Jun22.194419.1@cc.newcastle.edu.au>
+Date: Wed, 23 Jun 1993 04:09:26 GMT
+Lines: 136
+
+In article <1993Jun22.194419.1@cc.newcastle.edu.au> ccasm@cc.newcastle.edu.au writes:
+>
+>>> 
+>>>          Distance to  Distance to   Movement      Speed     Acceleration
+>>>     Frame   Handhold    Seat Back    inches      ft/sec      ft/sec(sq)
+>>>      301      56.467        8.842
+>>>      302      56.486        8.501       0.019         0.03
+>>>      303      56.423        8.438      -0.063        -0.10         -2.29
+>>>      304      56.264        8.279      -0.159        -0.24         -2.68
+>>>      305      55.650        7.665      -0.614        -0.94        -12.70
+>>>      306      55.747        7.762       0.097         0.15         19.84
+>>>      307      55.952        7.967       0.205         0.31          3.01
+>>>      308      56.122        8.137       0.170         0.26         -0.98
+>>>      309      55.553        7.568      -0.569        -0.87        -20.62
+>>>      310      55.813        7.828       0.260         0.40         23.14
+>>>      311      55.518        7.533      -0.295        -0.45        -15.49
+>>>      312      55.678        7.693       0.160         0.24         12.70
+>>>      313      57.859        9.874       2.181         3.33         56.40
+>>>      314      57.321        9.339      -0.538        -0.82        -75.88
+>>>      315      56.248        8.263      -1.073        -1.64        -14.93
+>>>      316      55.023        7.038      -1.225        -1.87         -4.24
+>>>      317      53.319        5.334      -1.704        -2.60        -13.37
+>>>      318      51.792        3.807      -1.528        -2.33          4.93
+>>>      319      50.264        2.279      -1.527        -2.33          0.00
+>
+>
+>If another column is added to this Thompson table of JFK haed movements,
+>called say "Relatiev Acceleration", which measures the difference in
+>acceleration between frames the result is:
+>
+>        304 = 10.02  (this is -2.29 to -12.70)
+>        305 = 32.54
+>        306 = 16.83
+>        307 =  3.99
+>        308 = 19.64
+>        309 = 43.76
+>        310 = 38.63
+>        311 = 38.19
+>        312 = 43.70
+>        313 =132.28
+>        314 = 60.95
+>        315 = 10.69
+>        316 =  9.13   and so on...
+>
+>These absolute values can be interpreted as the change in acceleration in
+>each frame. Is this valid (perhaps Sjoerd de Vries or other physicist ac
+>comment?).
+
+	Yes.  Exact values (justr as for velocity, position, etc.)
+	will vary because of blur, smear, and stutter.
+
+>
+>If it is vaid it shows nothing special about the 2.181 forward movement of
+>JFKs head prior to the backward movements at 312/313 - 43.7 f/ss is seen in
+>other frames such as 309.
+
+	Depends on the magnitude of the event in acceleration terms
+	relative to the previously implied velocity.
+
+	Bottom line is that the values and accuracies on
+	these figures implies a closed bounded curve
+	within which each moment in time MUST have a
+	limited range of associated position, velocity,
+	and acceleratin constants, arising from some
+	source.
+
+	Thomson's analysis of _three_sequential_frames
+	(covering at most 2 Z times plus stutter to
+	impart acceleration from transfer of moment of
+	bullets, delta car velocity, neuromuscular tiwtch,
+	and jet effect)
+
+		gives to high an effective delta acceleration
+		(big V forward at frame instant 2, to big
+		V backward at frame 3)
+
+	to be explained withi a closec curve that can be
+	handled  by anything other than a back shot
+	hit followed by a front shot hit.
+
+	Comarison of background object and car motion eliminates much of
+	the "sttuter" uncertainty.  the rest is up
+	to a full analysis; Thomson's point was that
+	this should have been done.
+
+	Ejecta and jet effects do not apply within the time
+	frames cited.
+
+
+	Since the range of probability also has to include
+	the possibility  of faster times and corresponding analysis
+	also should be taken into account.
+
+	Government analysis does not do so, and is one
+	of the weakest points of the entire WC poit of
+	view.
+
+>
+>If it is valid it can be explained by the fact that in each frame up to
+>312 the head movement looks like nodding, something like the effect of 
+>breathing deeply. For example, small breaths in at 303-305 then out at 
+>306-308. Then a more rapid breath, in at 309 and out at 310, in at 311
+>and out at 312. But in 313 the 2" movement is interpreted by some as
+>the effect of an external source. If you look at the difference in
+>acceleration here, there is no outside force, just a continuation of movement
+>in the same direction at a reasonable acceleration. prior to this the move
+>forward was cancelled by a move back. If the acceleration was to go on for
+>more than a frame the acceleration translates into significant movement.
+>But there is NO significant acceleration!
+>
+>The only significant acceleration is in 313 where the cumulative effect is
+>132 f/ss backward. 
+>
+>Thus there was only a front head shot.
+>
+>
+>To put it another way, the forward movement was simply an extended exhale
+>at a normal acceleration, at 312. But the movement at 313 is 3 times
+>the change in acceleration normally seen, and it is backward.
+>
+>Now with my asbestos suit on, I await learned replies from experts.
+>
+>it makes sense to me, as it explains why the table appears to show NO 
+>major rear head movement, yet we all see it happen, taking the head 8.5
+>inches backwards (and more if you recall the movement was not directly
+>backward but to the left as well, something the measurements do not 
+>show) in just 7 frames.
+>
+>
+>
+>????????????????????????????????????????????????????????????????
+>
+>
+>
+
+royc
+
+From pfm!public!incom!cat!Germany.EU.net!mcsun!uunet!haven.umd.edu!darwin.sura.net!news-feed-1.peachnet.edu!concert!rbdc!royc Thu Jun 24 15:18:58 1993
+Newsgroups: alt.conspiracy.jfk
+Path: pfm!public!incom!cat!Germany.EU.net!mcsun!uunet!haven.umd.edu!darwin.sura.net!news-feed-1.peachnet.edu!concert!rbdc!royc
+From: royc@rbdc.wsnc.org (Roy Crabtree)
+Subject: Re: Frontal Head Shot proof?
+Message-ID: <C923Jr.JEs@rbdc.wsnc.org>
+Organization: Red Barn Data Center
+References: <C8qrJq.35K@cbnews.cb.att.com> <1993Jun21.162039.1@cc.newcastle.edu.au> <1993Jun22.194419.1@cc.newcastle.edu.au>
+Date: Wed, 23 Jun 1993 04:09:26 GMT
+Lines: 136
+
+In article <1993Jun22.194419.1@cc.newcastle.edu.au> ccasm@cc.newcastle.edu.au writes:
+>
+>>> 
+>>>          Distance to  Distance to   Movement      Speed     Acceleration
+>>>     Frame   Handhold    Seat Back    inches      ft/sec      ft/sec(sq)
+>>>      301      56.467        8.842
+>>>      302      56.486        8.501       0.019         0.03
+>>>      303      56.423        8.438      -0.063        -0.10         -2.29
+>>>      304      56.264        8.279      -0.159        -0.24         -2.68
+>>>      305      55.650        7.665      -0.614        -0.94        -12.70
+>>>      306      55.747        7.762       0.097         0.15         19.84
+>>>      307      55.952        7.967       0.205         0.31          3.01
+>>>      308      56.122        8.137       0.170         0.26         -0.98
+>>>      309      55.553        7.568      -0.569        -0.87        -20.62
+>>>      310      55.813        7.828       0.260         0.40         23.14
+>>>      311      55.518        7.533      -0.295        -0.45        -15.49
+>>>      312      55.678        7.693       0.160         0.24         12.70
+>>>      313      57.859        9.874       2.181         3.33         56.40
+>>>      314      57.321        9.339      -0.538        -0.82        -75.88
+>>>      315      56.248        8.263      -1.073        -1.64        -14.93
+>>>      316      55.023        7.038      -1.225        -1.87         -4.24
+>>>      317      53.319        5.334      -1.704        -2.60        -13.37
+>>>      318      51.792        3.807      -1.528        -2.33          4.93
+>>>      319      50.264        2.279      -1.527        -2.33          0.00
+>
+>
+>If another column is added to this Thompson table of JFK haed movements,
+>called say "Relatiev Acceleration", which measures the difference in
+>acceleration between frames the result is:
+>
+>        304 = 10.02  (this is -2.29 to -12.70)
+>        305 = 32.54
+>        306 = 16.83
+>        307 =  3.99
+>        308 = 19.64
+>        309 = 43.76
+>        310 = 38.63
+>        311 = 38.19
+>        312 = 43.70
+>        313 =132.28
+>        314 = 60.95
+>        315 = 10.69
+>        316 =  9.13   and so on...
+>
+>These absolute values can be interpreted as the change in acceleration in
+>each frame. Is this valid (perhaps Sjoerd de Vries or other physicist ac
+>comment?).
+
+	Yes.  Exact values (justr as for velocity, position, etc.)
+	will vary because of blur, smear, and stutter.
+
+>
+>If it is vaid it shows nothing special about the 2.181 forward movement of
+>JFKs head prior to the backward movements at 312/313 - 43.7 f/ss is seen in
+>other frames such as 309.
+
+	Depends on the magnitude of the event in acceleration terms
+	relative to the previously implied velocity.
+
+	Bottom line is that the values and accuracies on
+	these figures implies a closed bounded curve
+	within which each moment in time MUST have a
+	limited range of associated position, velocity,
+	and acceleratin constants, arising from some
+	source.
+
+	Thomson's analysis of _three_sequential_frames
+	(covering at most 2 Z times plus stutter to
+	impart acceleration from transfer of moment of
+	bullets, delta car velocity, neuromuscular tiwtch,
+	and jet effect)
+
+		gives to high an effective delta acceleration
+		(big V forward at frame instant 2, to big
+		V backward at frame 3)
+
+	to be explained withi a closec curve that can be
+	handled  by anything other than a back shot
+	hit followed by a front shot hit.
+
+	Comarison of background object and car motion eliminates much of
+	the "sttuter" uncertainty.  the rest is up
+	to a full analysis; Thomson's point was that
+	this should have been done.
+
+	Ejecta and jet effects do not apply within the time
+	frames cited.
+
+
+	Since the range of probability also has to include
+	the possibility  of faster times and corresponding analysis
+	also should be taken into account.
+
+	Government analysis does not do so, and is one
+	of the weakest points of the entire WC poit of
+	view.
+
+>
+>If it is valid it can be explained by the fact that in each frame up to
+>312 the head movement looks like nodding, something like the effect of 
+>breathing deeply. For example, small breaths in at 303-305 then out at 
+>306-308. Then a more rapid breath, in at 309 and out at 310, in at 311
+>and out at 312. But in 313 the 2" movement is interpreted by some as
+>the effect of an external source. If you look at the difference in
+>acceleration here, there is no outside force, just a continuation of movement
+>in the same direction at a reasonable acceleration. prior to this the move
+>forward was cancelled by a move back. If the acceleration was to go on for
+>more than a frame the acceleration translates into significant movement.
+>But there is NO significant acceleration!
+>
+>The only significant acceleration is in 313 where the cumulative effect is
+>132 f/ss backward. 
+>
+>Thus there was only a front head shot.
+>
+>
+>To put it another way, the forward movement was simply an extended exhale
+>at a normal acceleration, at 312. But the movement at 313 is 3 times
+>the change in acceleration normally seen, and it is backward.
+>
+>Now with my asbestos suit on, I await learned replies from experts.
+>
+>it makes sense to me, as it explains why the table appears to show NO 
+>major rear head movement, yet we all see it happen, taking the head 8.5
+>inches backwards (and more if you recall the movement was not directly
+>backward but to the left as well, something the measurements do not 
+>show) in just 7 frames.
+>
+>
+>
+>????????????????????????????????????????????????????????????????
+>
+>
+>
+
+royc
+
+           _  ________  ___ _________        _  _____________ _____
+          / \ \  __   \(___)        /|___   / \ \       \    |    /
+         / ¡ \ \/     /|   |       / |   | / | \ \  _,   \   !   /
+        /  |  \|   ¡  \|   |\     /  !   |/     \/\/    _/\_   _/
+       /   !   \   !   \   |Z\/ \/       /   ¡   \   \   \_/   \
+       \______ /______ /___|!/___\_______\___| __/__ |\___/_____\
+      = =====\/======\/======================|/=====\|=========== =
+                           .) U M F  W H Q (.
+                         |\                  /|
+      310.652.5688       | \     _,---,_    / |   A3000 68030 50mhz
+                          \ \[L]//\ \,' \  / /|
+    2 NoDEz RiNGDoWN      |\ \_/ \_\/   \\/ /,|    300 Megs Online
+                          | \ /--____-- / //>\'    _
+   16.8/14.4 HST DUAL      \/<<, \  /, >\< < /    (_)-D/\Y /\MiG/\!
+                            \'\~~ ^^ ~~ /.  /
+                             >/   |    \\__/
+                             <./\___/\_,>>
+                              \~~~~~~~~//
+                               \_.--,_/'
+    .________________________.   .____________________________________
+    |    ______/   .    \    |___| ___/     .    \   _____/    ______/
+    |    .____/    |____/    |   \    \     |____/___.    \    .____/
+    |    |    \    |    \    |    \    \    |   |    |     \   |    \
+    |_________/_________/_________/____/____|[M]|__________/________/
+
+                             -=> U S H Q <=-
+  --------------------------------------------------------------------
+     Online UFO conference and Files. Messages/Pictures/Information
+       and other interesting topics regarding UFO & Govt coverups.
+  --------------------------------------------------------------------
